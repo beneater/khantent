@@ -1208,14 +1208,17 @@ video /root/math/geometry/basic-geometry/perimeter-and-area-of-a-non-standard-po
 video /root/math/geometry/basic-geometry/circles--radius--diameter-and-circumference jyLRpr2P0MQ
 video /root/math/geometry/basic-geometry/parts-of-a-circle 04N79tItPEA
 video /root/math/geometry/basic-geometry/area-of-a-circle lDKjX5ouoic
+exercise /root/math/geometry/basic-geometry/geometry_1
 video /root/math/geometry/basic-geometry/solid-geometry-volume ZqzAOZ9pP9Q
 video /root/math/geometry/basic-geometry/cylinder-volume-and-surface-area gL3HxBQyeg0
 video /root/math/geometry/basic-geometry/volume-of-a-sphere IelS2vg7JO8
+exercise /root/math/geometry/basic-geometry/solid_geometry
 topic /root/math/geometry/intro-to-euclidean-geo
 video /root/math/geometry/intro-to-euclidean-geo/euclid-as-the-father-of-geometry WqzK3UAXaHs
 video /root/math/geometry/intro-to-euclidean-geo/language-and-notation-of-basic-geometry il0EJrY64qE
 video /root/math/geometry/intro-to-euclidean-geo/lines--line-segments--and-rays JcqCf762y9w
 video /root/math/geometry/intro-to-euclidean-geo/identifying-rays w9jEq6dmqPg
+exercise /root/math/geometry/intro-to-euclidean-geo/recognizing_rays_lines_and_line_segments
 video /root/math/geometry/intro-to-euclidean-geo/identifying-parallel-and-perpendicular-lines aq_XL6FrmGs
 topic /root/math/geometry/angles
 video /root/math/geometry/angles/angle-basics H-de6Tkxej8
@@ -1223,26 +1226,42 @@ video /root/math/geometry/angles/introduction-to-angles--old 2439OIVBgPg
 video /root/math/geometry/angles/measuring-angles-in-degrees 92aLiyeQj0w
 video /root/math/geometry/angles/using-a-protractor dw41PMWek6U
 video /root/math/geometry/angles/measuring-angles wJ37GJyViU8
+exercise /root/math/geometry/angles/measuring_angles
 video /root/math/geometry/angles/angle-a-trons o6W6P8JZW0o
 video /root/math/geometry/angles/acute-right-and-obtuse-angles ALhv3Rlydig
 video /root/math/geometry/angles/acute-obtuse-and-right-angles qdYx4qk2UHU
 video /root/math/geometry/angles/complementary-and-supplementary-angles BTnAlNSgNsY
 video /root/math/geometry/angles/identifying-complementary-and-supplementary-angles o-TWOYoxjUo
+exercise /root/math/geometry/angles/complementary_angles
+exercise /root/math/geometry/angles/supplementary_angles
+exercise /root/math/geometry/angles/complementary_and_supplementary_angles
 video /root/math/geometry/angles/angles--part-2 zrqzG6xKa1A
+exercise /root/math/geometry/angles/angle_types
 video /root/math/geometry/angles/proof---sum-of-measures-of-angles-in-a-triangle-are-180 OPG-9IFnJnI
 video /root/math/geometry/angles/triangle-angle-example-1 hmj3_zbz2eg
 video /root/math/geometry/angles/angles-at-the-intersection-of-two-lines _7aUxFzTG5w
 video /root/math/geometry/angles/proof-vertical-angles-are-equal wRBMmiNHQaE
+exercise /root/math/geometry/angles/vertical_angles
+exercise /root/math/geometry/angles/vertical_angles_2
 video /root/math/geometry/angles/angles--part-3 NLg6hfoKKlE
 video /root/math/geometry/angles/angles-formed-between-transversals-and-parallel-lines gRKZaojKeP0
 video /root/math/geometry/angles/proof---corresponding-angle-equivalence-implies-parallel-lines 9_3OxtdqmqE
+exercise /root/math/geometry/angles/corresponding_angles
+exercise /root/math/geometry/angles/alternate_interior_angles
+exercise /root/math/geometry/angles/alternate_exterior_angles
+exercise /root/math/geometry/angles/same_side_interior_angles
+exercise /root/math/geometry/angles/same_side_exterior_angles
 video /root/math/geometry/angles/angles-of-parallel-lines-2 0eDwckZOffc
+exercise /root/math/geometry/angles/parallel_lines_1
+exercise /root/math/geometry/angles/parallel_lines_2
 video /root/math/geometry/angles/triangle-angle-example-2 eTwnt4G5xE4
 video /root/math/geometry/angles/triangle-angle-example-3 iqeGTtyzQ1I
 video /root/math/geometry/angles/finding-missing-angles z8BoVhTkaBw
 video /root/math/geometry/angles/finding-more-angles 0gzSreH8nUI
 video /root/math/geometry/angles/the-angle-game kqU_ymV581c
 video /root/math/geometry/angles/angle-game--part-2 ko-cYG3d6ec
+exercise /root/math/geometry/angles/angles_1
+exercise /root/math/geometry/angles/angles_2
 video /root/math/geometry/angles/more-on-why-ssa-is-not-a-postulate f8svAm237xM
 video /root/math/geometry/angles/angles-formed-by-parallel-lines-and-transversals H-E5rlpCVu4
 video /root/math/geometry/angles/point-line-distance-and-angle-bisectors yj4oS-27Q3k
@@ -1284,13 +1303,17 @@ video /root/math/geometry/triangles/similar-triangles BI-rtfZVXy0
 video /root/math/geometry/triangles/similar-triangles--part-2 qO2cTx6DwCA
 video /root/math/geometry/triangles/similar-triangle-example-problems Ly86lwq_2gc
 video /root/math/geometry/triangles/similarity-example-problems R-6CAr_zEEk
+exercise /root/math/geometry/triangles/similar_triangles_1
 video /root/math/geometry/triangles/application-of-similar-triangles UgiRvl6iJzc
 video /root/math/geometry/triangles/challenging-similarity-problem 7aGEvpHaNJ8
 video /root/math/geometry/triangles/similarity-example-where-same-side-plays-different-roles Tal_fgREll0
 video /root/math/geometry/triangles/finding-area-using-similarity-and-congruence EqNzr56h1Ic
+exercise /root/math/geometry/triangles/congruency_postulates
 video /root/math/geometry/triangles/introduction-to-the-pythagorean-theorem s9t7rNhaBp8
 video /root/math/geometry/triangles/the-pythagorean-theorem AA6RfgP-AHU
 video /root/math/geometry/triangles/pythagorean-theorem-ii nMhJLn5ives
+exercise /root/math/geometry/triangles/pythagorean_theorem_1
+exercise /root/math/geometry/triangles/pythagorean_theorem_2
 video /root/math/geometry/triangles/pythagorean-theorem-proof-using-similarity LrS5_l-gk94
 video /root/math/geometry/triangles/45-45-90-triangles tSHitjFIjd8
 video /root/math/geometry/triangles/45-45-90-triangle-side-ratios McINBOFCGH8
@@ -1301,6 +1324,7 @@ video /root/math/geometry/triangles/30-60-90-triangle-example-problem dgHksfBFbj
 video /root/math/geometry/triangles/heron-s-formula -YI6UC4qVEY
 video /root/math/geometry/triangles/part-1-of-proof-of-heron-s-formula AreOMvPCxv8
 video /root/math/geometry/triangles/part-2-of-the-proof-of-heron-s-formula nZu7IZLhJRI
+exercise /root/math/geometry/triangles/herons_formula
 video /root/math/geometry/triangles/area-of-inscribed-equilateral-triangle--some-basic-trig-used UmiZK6Hgm6c
 video /root/math/geometry/triangles/right-triangles-inscribed-in-circles--proof b0U1NxbRU4w
 video /root/math/geometry/triangles/area-of-diagonal-generated-triangles-of-rectangle-are-equal YTRimTJ5nX4
@@ -1336,6 +1360,7 @@ video /root/math/geometry/polygons-quads-parallelograms/area-of-a-regular-hexago
 video /root/math/geometry/polygons-quads-parallelograms/problem-involving-angle-derived-from-square-and-circle 3n0LvI99-KM
 video /root/math/geometry/polygons-quads-parallelograms/2003-aime-ii-problem-7 jpKjXtywTlQ
 video /root/math/geometry/polygons-quads-parallelograms/ca-geometry--deducing-angle-measures _HJljJuVHLw
+exercise /root/math/geometry/polygons-quads-parallelograms/angles_of_a_polygon
 topic /root/math/geometry/circles-topic
 video /root/math/geometry/circles-topic/language-and-notation-of-the-circle U2W7HPyC0cM
 video /root/math/geometry/circles-topic/circles--radius--diameter-and-circumference jyLRpr2P0MQ
@@ -1345,6 +1370,9 @@ video /root/math/geometry/circles-topic/area-of-a-circle lDKjX5ouoic
 video /root/math/geometry/circles-topic/pi-is--still--wrong jG7vhMMXagQ
 video /root/math/geometry/circles-topic/right-triangles-inscribed-in-circles--proof b0U1NxbRU4w
 video /root/math/geometry/circles-topic/right-triangles-inscribed-in-circles--proof b0U1NxbRU4w
+exercise /root/math/geometry/circles-topic/inscribed_angles_1
+exercise /root/math/geometry/circles-topic/inscribed_angles_2
+exercise /root/math/geometry/circles-topic/inscribed_angles_3
 video /root/math/geometry/circles-topic/perpendicular-radius-bisects-chord q7eF5Ci944U
 video /root/math/geometry/circles-topic/incenter-and-incircles-of-a-triangle 21vbBiCVijE
 video /root/math/geometry/circles-topic/inradius-perimeter-and-area 5NjgcPri07E
