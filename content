@@ -23,6 +23,7 @@ exercise /root/math/arithmetic/telling-time/telling_time
 exercise /root/math/arithmetic/telling-time/telling_time_2
 exercise /root/math/arithmetic/telling-time/telling_time_0.5
 topic /root/math/arithmetic/rates-and-ratios
+exercise /root/math/arithmetic/rates-and-ratios/rate_problems_2
 exercise /root/math/arithmetic/rates-and-ratios/ratio_word_problems
 exercise /root/math/arithmetic/rates-and-ratios/proportions_2
 exercise /root/math/arithmetic/rates-and-ratios/proportions_1
@@ -32,6 +33,12 @@ exercise /root/math/arithmetic/rates-and-ratios/rate_problems_1
 exercise /root/math/arithmetic/rates-and-ratios/rate_problems_0.5
 exercise /root/math/arithmetic/rates-and-ratios/units
 topic /root/math/arithmetic/addition-subtraction
+exercise /root/math/arithmetic/addition-subtraction/addition_3
+exercise /root/math/arithmetic/addition-subtraction/addition_1
+exercise /root/math/arithmetic/addition-subtraction/addition_2
+exercise /root/math/arithmetic/addition-subtraction/arithmetic_word_problems_1
+exercise /root/math/arithmetic/addition-subtraction/subtraction_1
+exercise /root/math/arithmetic/addition-subtraction/number_line_2
 exercise /root/math/arithmetic/addition-subtraction/negative_number_word_problems
 exercise /root/math/arithmetic/addition-subtraction/adding_and_subtracting_negative_numbers
 exercise /root/math/arithmetic/addition-subtraction/ordering_negative_numbers
@@ -62,6 +69,10 @@ video /root/math/arithmetic/addition-subtraction/adding-subtracting-negative-num
 video /root/math/arithmetic/addition-subtraction/adding-whole-numbers-and-applications-1 b22tMEc6Kko
 video /root/math/arithmetic/addition-subtraction/u09-l1-t2-we4-adding-real-numbers-application fFdOr8U4mnI
 topic /root/math/arithmetic/multiplication-division
+exercise /root/math/arithmetic/multiplication-division/division_4
+exercise /root/math/arithmetic/multiplication-division/division_3
+exercise /root/math/arithmetic/multiplication-division/division_1.5
+exercise /root/math/arithmetic/multiplication-division/multiplication_1
 exercise /root/math/arithmetic/multiplication-division/multiplying_and_dividing_negative_numbers
 exercise /root/math/arithmetic/multiplication-division/arithmetic_word_problems_2
 exercise /root/math/arithmetic/multiplication-division/division_2
@@ -132,6 +143,7 @@ video /root/math/arithmetic/order-of-operations/more-complicated-order-of-operat
 video /root/math/arithmetic/order-of-operations/order-of-operations GiSpzFKI5_w
 video /root/math/arithmetic/order-of-operations/order-of-operations-1 gjrGd9TjjnY
 topic /root/math/arithmetic/factors-multiples
+exercise /root/math/arithmetic/factors-multiples/greatest_common_divisor
 exercise /root/math/arithmetic/factors-multiples/least_common_multiple_and_greatest_common_divisor_word_problems
 exercise /root/math/arithmetic/factors-multiples/divisibility
 exercise /root/math/arithmetic/factors-multiples/divisibility_0.5
@@ -149,6 +161,12 @@ video /root/math/arithmetic/factors-multiples/least-common-multiple--lcm D6yHKOY
 video /root/math/arithmetic/factors-multiples/greatest-common-divisor jFd-6EPfnec
 video /root/math/arithmetic/factors-multiples/algebraic-expression-least-common-multiple MNeNHoCXoGU
 topic /root/math/arithmetic/fractions
+exercise /root/math/arithmetic/fractions/converting_decimals_to_fractions_2
+exercise /root/math/arithmetic/fractions/multiplying_fractions_0.5
+exercise /root/math/arithmetic/fractions/ordering_improper_fractions_and_mixed_numbers
+exercise /root/math/arithmetic/fractions/subtracting_fractions_with_common_denominators
+exercise /root/math/arithmetic/fractions/equivalent_fractions_2
+exercise /root/math/arithmetic/fractions/recognizing_fractions
 exercise /root/math/arithmetic/fractions/ordering_numbers
 exercise /root/math/arithmetic/fractions/converting_decimals_to_fractions_1
 exercise /root/math/arithmetic/fractions/converting_fractions_to_decimals
@@ -223,6 +241,12 @@ video /root/math/arithmetic/fractions/representing-a-number-as-a-decimal--percen
 video /root/math/arithmetic/fractions/points-on-a-number-line uC09taczvOo
 video /root/math/arithmetic/fractions/ordering-numeric-expressions_DUP_3 Llt-KkHugRQ
 topic /root/math/arithmetic/decimals
+exercise /root/math/arithmetic/decimals/estimation_with_decimals
+exercise /root/math/arithmetic/decimals/understanding_moving_the_decimal
+exercise /root/math/arithmetic/decimals/dividing_decimals_2
+exercise /root/math/arithmetic/decimals/place_value
+exercise /root/math/arithmetic/decimals/decimals_on_the_number_line_1
+exercise /root/math/arithmetic/decimals/adding_decimals_0.5
 exercise /root/math/arithmetic/decimals/dividing_decimals
 exercise /root/math/arithmetic/decimals/dividing_decimals_1
 exercise /root/math/arithmetic/decimals/dividing_decimals_0.5
@@ -264,6 +288,7 @@ video /root/math/arithmetic/decimals/representing-a-number-as-a-decimal--percent
 video /root/math/arithmetic/decimals/points-on-a-number-line uC09taczvOo
 video /root/math/arithmetic/decimals/ordering-numeric-expressions_DUP_3 Llt-KkHugRQ
 topic /root/math/arithmetic/percents
+exercise /root/math/arithmetic/percents/converting_percents_to_decimals
 exercise /root/math/arithmetic/percents/discount_tax_and_tip_word_problems
 exercise /root/math/arithmetic/percents/percentage_word_problems_2
 exercise /root/math/arithmetic/percents/percentage_word_problems_1
@@ -305,10 +330,29 @@ video /root/math/arithmetic/basic-exponents/level-3-exponents aYE26a5E1iU
 video /root/math/arithmetic/basic-exponents/exponent-rules-part-1 kITJ6qH7jS0
 video /root/math/arithmetic/basic-exponents/exponent-rules-part-2 rEtuPhl6930
 topic /root/math/algebra
+topic /root/math/algebra/equation-of-a-line
+exercise /root/math/algebra/equation-of-a-line/slope_of_a_line
+exercise /root/math/algebra/equation-of-a-line/solving_for_the_y-intercept
+exercise /root/math/algebra/equation-of-a-line/equation_of_a_line
+exercise /root/math/algebra/equation-of-a-line/slope_intercept_form
+exercise /root/math/algebra/equation-of-a-line/interpreting_linear_equations
+exercise /root/math/algebra/equation-of-a-line/line_graph_intuition
+exercise /root/math/algebra/equation-of-a-line/converting_between_point_slope_and_slope_intercept
+exercise /root/math/algebra/equation-of-a-line/converting_between_slope_intercept_and_standard_form
+exercise /root/math/algebra/equation-of-a-line/plugging_in_values
+exercise /root/math/algebra/equation-of-a-line/solving_for_the_x-intercept
+exercise /root/math/algebra/equation-of-a-line/point_slope_form
 topic /root/math/algebra/pythagorean-theorem
+exercise /root/math/algebra/pythagorean-theorem/pythagorean_theorem_1
 exercise /root/math/algebra/pythagorean-theorem/midpoint_formula
 exercise /root/math/algebra/pythagorean-theorem/distance_formula
 topic /root/math/algebra/solving-linear-equations-and-inequalities
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/inequalities_on_a_number_line
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_4
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_2
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations_0.5
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_expressions_1
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_inequalities
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/compound_inequalities
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_inequalities
@@ -323,6 +367,14 @@ exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_ex
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_2
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_1
 topic /root/math/algebra/polynomials-and-quadratics
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_2
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_1
+exercise /root/math/algebra/polynomials-and-quadratics/multiplying_expressions_0.5
+exercise /root/math/algebra/polynomials-and-quadratics/parabola_intuition_3
+exercise /root/math/algebra/polynomials-and-quadratics/completing_the_square_2
+exercise /root/math/algebra/polynomials-and-quadratics/expressions_with_unknown_variables
+exercise /root/math/algebra/polynomials-and-quadratics/solving_quadratics_by_factoring
+exercise /root/math/algebra/polynomials-and-quadratics/multiplying_polynomials
 exercise /root/math/algebra/polynomials-and-quadratics/kinematic_equations
 exercise /root/math/algebra/polynomials-and-quadratics/graphing_parabolas_2
 exercise /root/math/algebra/polynomials-and-quadratics/vertex_of_a_parabola
@@ -494,6 +546,11 @@ video /root/math/algebra/linear-equations-and-inequalitie/graphing-inequalities 
 video /root/math/algebra/linear-equations-and-inequalitie/graphing-inequalities-1 2oGsLdAWxlk
 video /root/math/algebra/linear-equations-and-inequalitie/graphing-inequalities-2 -aTy1ED1m5I
 topic /root/math/algebra/systems-of-eq-and-ineq
+exercise /root/math/algebra/systems-of-eq-and-ineq/systems_of_equations_with_substitution
+exercise /root/math/algebra/systems-of-eq-and-ineq/systems_of_equations_word_problems
+exercise /root/math/algebra/systems-of-eq-and-ineq/distance_between_point_and_line
+exercise /root/math/algebra/systems-of-eq-and-ineq/systems_of_equations
+exercise /root/math/algebra/systems-of-eq-and-ineq/systems_of_equations_with_elimination
 exercise /root/math/algebra/systems-of-eq-and-ineq/converting_repeating_decimals_to_fractions_2
 exercise /root/math/algebra/systems-of-eq-and-ineq/converting_repeating_decimals_to_fractions_1
 exercise /root/math/algebra/systems-of-eq-and-ineq/graphing_systems_of_inequalities_2
@@ -613,6 +670,11 @@ video /root/math/algebra/absolute-value/absolute-value-inequalities-example-1 Tv
 video /root/math/algebra/absolute-value/absolute-inequalities-2 x5EJG_rAtkY
 video /root/math/algebra/absolute-value/absolute-value-inequalities-example-3 y9MGpOGQVqQ
 topic /root/math/algebra/exponents-radicals
+exercise /root/math/algebra/exponents-radicals/exponents_4
+exercise /root/math/algebra/exponents-radicals/exponents_1
+exercise /root/math/algebra/exponents-radicals/scientific_notation
+exercise /root/math/algebra/exponents-radicals/exponent_rules
+exercise /root/math/algebra/exponents-radicals/simplifying_expressions_with_exponents
 exercise /root/math/algebra/exponents-radicals/logarithms_2
 exercise /root/math/algebra/exponents-radicals/logarithms_1
 exercise /root/math/algebra/exponents-radicals/radical_equations
@@ -835,6 +897,10 @@ video /root/math/algebra/quadtratics/proof-of-quadratic-formula r3SEkdtpobo
 video /root/math/algebra/quadtratics/quadratic-formula--proof mDmRYfma9C0
 video /root/math/algebra/quadtratics/complex-roots-from-the-quadratic-formula dnjK4DPqh0k
 topic /root/math/algebra/algebra-functions
+exercise /root/math/algebra/algebra-functions/direct_and_inverse_variation
+exercise /root/math/algebra/algebra-functions/even_and_odd_functions
+exercise /root/math/algebra/algebra-functions/new_definitions_1
+exercise /root/math/algebra/algebra-functions/graphing_points_2
 exercise /root/math/algebra/algebra-functions/shifting_and_reflecting_functions
 exercise /root/math/algebra/algebra-functions/inverses_of_functions
 exercise /root/math/algebra/algebra-functions/range_of_a_function
@@ -897,6 +963,8 @@ video /root/math/algebra/algebra-functions/graphing-radical-functions Mi6OJ4TAuf
 video /root/math/algebra/algebra-functions/graphing-exponential-functions 9SOSfRNCQZQ
 video /root/math/algebra/algebra-functions/graphs-of-square-root-functions outcfkh69U0
 topic /root/math/algebra/conic-sections
+exercise /root/math/algebra/conic-sections/equation_of_a_hyperbola
+exercise /root/math/algebra/conic-sections/parabola_intuition_2
 exercise /root/math/algebra/conic-sections/equation_of_an_ellipse
 exercise /root/math/algebra/conic-sections/equation_of_a_circle_2
 exercise /root/math/algebra/conic-sections/equation_of_a_circle_1
@@ -930,6 +998,7 @@ video /root/math/algebra/conic-sections/iit-jee-circle-hyperbola-common-tangent-
 video /root/math/algebra/conic-sections/iit-jee-circle-hyperbola-common-tangent-part-5 rPoqpQcgNv4
 video /root/math/algebra/conic-sections/tangent-line-hyperbola-relationship--very-optional c_8QQbVQKU0
 topic /root/math/algebra/complex-numbers
+exercise /root/math/algebra/complex-numbers/adding_and_subtracting_complex_numbers
 exercise /root/math/algebra/complex-numbers/dividing_complex_numbers
 exercise /root/math/algebra/complex-numbers/multiplying_complex_numbers
 exercise /root/math/algebra/complex-numbers/absolute_value_of_complex_numbers
@@ -1099,6 +1168,8 @@ video /root/math/algebra/ck12-algebra-1/two-more-examples-of-solving-rational-eq
 video /root/math/algebra/ck12-algebra-1/surveys-and-samples nabw6v93Xns
 topic /root/math/geometry
 topic /root/math/geometry/basic-geometry
+exercise /root/math/geometry/basic-geometry/geometry_1
+exercise /root/math/geometry/basic-geometry/solid_geometry
 exercise /root/math/geometry/basic-geometry/quadrilateral_angles
 exercise /root/math/geometry/basic-geometry/quadrilateral_types
 exercise /root/math/geometry/basic-geometry/axis_of_symmetry
@@ -1120,6 +1191,10 @@ video /root/math/geometry/intro-to-euclidean-geo/lines--line-segments--and-rays 
 video /root/math/geometry/intro-to-euclidean-geo/identifying-rays w9jEq6dmqPg
 video /root/math/geometry/intro-to-euclidean-geo/identifying-parallel-and-perpendicular-lines aq_XL6FrmGs
 topic /root/math/geometry/angles
+exercise /root/math/geometry/angles/same_side_interior_angles
+exercise /root/math/geometry/angles/parallel_lines_1
+exercise /root/math/geometry/angles/corresponding_angles
+exercise /root/math/geometry/angles/complementary_and_supplementary_angles
 exercise /root/math/geometry/angles/angles_2
 exercise /root/math/geometry/angles/angles_1
 exercise /root/math/geometry/angles/parallel_lines_2
@@ -1169,6 +1244,10 @@ video /root/math/geometry/angles/perpendicular-radius-bisects-chord q7eF5Ci944U
 video /root/math/geometry/angles/inradius-perimeter-and-area 5NjgcPri07E
 video /root/math/geometry/angles/2003-aime-ii-problem-7 jpKjXtywTlQ
 topic /root/math/geometry/triangles
+exercise /root/math/geometry/triangles/congruent_triangles_1
+exercise /root/math/geometry/triangles/congruent_triangles_2
+exercise /root/math/geometry/triangles/inscribed_angles_3
+exercise /root/math/geometry/triangles/inscribed_angles_2
 exercise /root/math/geometry/triangles/triangle_inequality_theorem
 exercise /root/math/geometry/triangles/herons_formula
 exercise /root/math/geometry/triangles/similar_triangles_review
@@ -1296,6 +1375,7 @@ video /root/math/geometry/geometry-worked-examples/ca-geometry--more-trig 8YBQQ0
 video /root/math/geometry/geometry-worked-examples/ca-geometry--circle-area-chords-tangent FJIZPvE3O1A
 video /root/math/geometry/geometry-worked-examples/ca-geometry--secants-and-translations Mp838qprwyY
 topic /root/math/trigonometry
+exercise /root/math/trigonometry/trigonometry_1
 exercise /root/math/trigonometry/graphs_of_sine_and_cosine
 exercise /root/math/trigonometry/inverse_trig_functions
 exercise /root/math/trigonometry/trig_identities_1
@@ -1347,6 +1427,7 @@ video /root/math/trigonometry/trigonometric-system-example Y2ed-g8Lpdc
 video /root/math/trigonometry/2003-aime-ii-problem-11-avi smtrrefmC40
 video /root/math/trigonometry/2003-aime-ii-problem-14 Ec-BKdC8vOo
 topic /root/math/probability
+exercise /root/math/probability/counting_2
 exercise /root/math/probability/dependent_probability
 exercise /root/math/probability/probability_1
 exercise /root/math/probability/counting_1
@@ -1405,6 +1486,10 @@ video /root/math/probability/poisson-process-2 Jkr4FSrNEVY
 video /root/math/probability/law-of-large-numbers VpuN8vCQ--M
 video /root/math/probability/term-life-insurance-and-death-probability NSSoMafbBqQ
 topic /root/math/statistics
+exercise /root/math/statistics/standard_deviation
+exercise /root/math/statistics/exploring_standard_deviation_1
+exercise /root/math/statistics/reading_bar_charts_1
+exercise /root/math/statistics/reading_tables_1
 exercise /root/math/statistics/empirical_rule
 exercise /root/math/statistics/z_scores_1
 exercise /root/math/statistics/variance
@@ -1550,6 +1635,7 @@ video /root/math/precalculus/vi-and-sal-explore-how-we-think-about-scale 4xfOq00
 video /root/math/precalculus/vi-and-sal-talk-about-the-mysteries-of-benford-s-law 6KmeGpjeLZ0
 video /root/math/precalculus/benford-s-law-explanation--sequel-to-mysteries-of-benford-s-law SZUDoEdjTzg
 topic /root/math/calculus
+exercise /root/math/calculus/chain_rule_1
 exercise /root/math/calculus/lhopitals_rule
 exercise /root/math/calculus/special_derivatives
 exercise /root/math/calculus/quotient_rule
