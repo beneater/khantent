@@ -1,10 +1,8 @@
 topic /root
 topic /root/new-and-noteworthy
-video /root/new-and-noteworthy/thank-you-khan-academy UDA3fF6WsVQ
 video /root/new-and-noteworthy/heart-disease-and-heart-attacks vYnreB1duro
 video /root/new-and-noteworthy/salman-khan-talk-at-ted-2011--from-ted-com gM95HHI4gLk
 video /root/new-and-noteworthy/primaries-and-caucuses z_QeYCg4yJ8
-video /root/new-and-noteworthy/scale-of-earth-and--sun GZx3U0dbASg
 video /root/new-and-noteworthy/electoral-college oTbvYGH_Hiw
 video /root/new-and-noteworthy/the-gates-notes--teachers-in-los-altos RoGgxrCsCEQ
 video /root/new-and-noteworthy/tau-versus-pi 1jDDfkKKgmc
@@ -16,6 +14,22 @@ video /root/new-and-noteworthy/futures-introduction 3g6P0lRXotI
 video /root/new-and-noteworthy/breakdown-of-gas-prices 1YYy0DEOpoU
 video /root/new-and-noteworthy/short-run-oil-prices ZxtlcZ-d90o
 video /root/new-and-noteworthy/money-supply--m0-m1-and-m2 _LPh72gx6GE
+video /root/new-and-noteworthy/lebron-asks-about-the-chances-of-making-10-free-throws iMqCSgqzmiQ
+video /root/new-and-noteworthy/why-europe-is-worried-about-greece xc-TSAQkqJ0
+video /root/new-and-noteworthy/balance-of-payments--current-account dirBYVjDk7A
+video /root/new-and-noteworthy/balance-of-payments--capital-account AimYG1jYD0A
+video /root/new-and-noteworthy/why-current-and-capital-accounts-net-out tYmMEqro8D4
+video /root/new-and-noteworthy/accumulating-foreign-currency-reserves HiphWQfB6J0
+video /root/new-and-noteworthy/using-reserves-to-stablize-currency TZ7d5kjAlQw
+video /root/new-and-noteworthy/speculative-attack-on-a-currency P2IWGlR1SHs
+video /root/new-and-noteworthy/financial-crisis-in-thailand-caused-by-speculative-attack lA3sjWwu5-s
+video /root/new-and-noteworthy/math-mechanics-of-thai-banking-crisis 9p3HNMe-oAI
+video /root/new-and-noteworthy/greek-debt-recession-and-austerity--part-1 9p10aMu1Glo
+video /root/new-and-noteworthy/greek-financial-crisis--part-2 CkNArgNPI2Y
+video /root/new-and-noteworthy/how-and-why-greece-would-leave-the-euro--part-3 jkmwAJMERrY
+video /root/new-and-noteworthy/salman-khan-at-rice-university-s-2012-commencement oipQBY7F4YY
+video /root/new-and-noteworthy/microsoft-ceo-summit--innovation-in-education QRrTMZkqn2w
+video /root/new-and-noteworthy/mit-2012-commencement-address Pn24jP0YbTI
 topic /root/math
 topic /root/math/arithmetic
 topic /root/math/arithmetic/telling-time
@@ -39,7 +53,6 @@ exercise /root/math/arithmetic/addition-subtraction/addition_2
 exercise /root/math/arithmetic/addition-subtraction/arithmetic_word_problems_1
 exercise /root/math/arithmetic/addition-subtraction/subtraction_1
 exercise /root/math/arithmetic/addition-subtraction/number_line_2
-exercise /root/math/arithmetic/addition-subtraction/negative_number_word_problems
 exercise /root/math/arithmetic/addition-subtraction/adding_and_subtracting_negative_numbers
 exercise /root/math/arithmetic/addition-subtraction/ordering_negative_numbers
 exercise /root/math/arithmetic/addition-subtraction/adding_negative_numbers
@@ -68,12 +81,14 @@ video /root/math/arithmetic/addition-subtraction/adding-integers-with-different-
 video /root/math/arithmetic/addition-subtraction/adding-subtracting-negative-numbers C38B33ZywWs
 video /root/math/arithmetic/addition-subtraction/adding-whole-numbers-and-applications-1 b22tMEc6Kko
 video /root/math/arithmetic/addition-subtraction/u09-l1-t2-we4-adding-real-numbers-application fFdOr8U4mnI
+exercise /root/math/arithmetic/addition-subtraction/representing_numbers
 topic /root/math/arithmetic/multiplication-division
 exercise /root/math/arithmetic/multiplication-division/division_4
 exercise /root/math/arithmetic/multiplication-division/division_3
 exercise /root/math/arithmetic/multiplication-division/division_1.5
 exercise /root/math/arithmetic/multiplication-division/multiplication_1
 exercise /root/math/arithmetic/multiplication-division/multiplying_and_dividing_negative_numbers
+exercise /root/math/arithmetic/multiplication-division/negative_number_word_problems
 exercise /root/math/arithmetic/multiplication-division/arithmetic_word_problems_2
 exercise /root/math/arithmetic/multiplication-division/division_2
 exercise /root/math/arithmetic/multiplication-division/division_1
@@ -116,7 +131,9 @@ video /root/math/arithmetic/negative-numbers/ordering-negative-numbers VW6UrPKPI
 video /root/math/arithmetic/negative-numbers/adding-negative-numbers AcpIO62x2oo
 video /root/math/arithmetic/negative-numbers/adding-integers-with-different-signs NrVvu7cM8_o
 video /root/math/arithmetic/negative-numbers/adding-subtracting-negative-numbers C38B33ZywWs
-video /root/math/arithmetic/negative-numbers/multiplying-and-dividing-negative-numbers d8lP5tR2R3Q
+video /root/math/arithmetic/negative-numbers/multiplying-positive-and-negative-numbers 47wjId9k2Hs
+video /root/math/arithmetic/negative-numbers/dividing-positive-and-negative-numbers bQ-KR3clFgs
+video /root/math/arithmetic/negative-numbers/why-a-negative-times-a-negative-is-a-positive rK4sXm_MPWo
 topic /root/math/arithmetic/number-properties
 video /root/math/arithmetic/number-properties/commutative-law-of-addition HwSszh3L358
 video /root/math/arithmetic/number-properties/commutative-law-of-multiplication ENKH97PYssg
@@ -160,6 +177,10 @@ video /root/math/arithmetic/factors-multiples/least-common-multiple cH-jaMCzIRk
 video /root/math/arithmetic/factors-multiples/least-common-multiple--lcm D6yHKOYJiso
 video /root/math/arithmetic/factors-multiples/greatest-common-divisor jFd-6EPfnec
 video /root/math/arithmetic/factors-multiples/algebraic-expression-least-common-multiple MNeNHoCXoGU
+exercise /root/math/arithmetic/factors-multiples/composite_numbers
+exercise /root/math/arithmetic/factors-multiples/the_fundamental_theorem_of_arithmetic
+exercise /root/math/arithmetic/factors-multiples/divisibility_intuition
+exercise /root/math/arithmetic/factors-multiples/divisibility_tests
 topic /root/math/arithmetic/fractions
 exercise /root/math/arithmetic/fractions/converting_decimals_to_fractions_2
 exercise /root/math/arithmetic/fractions/multiplying_fractions_0.5
@@ -287,6 +308,7 @@ video /root/math/arithmetic/decimals/representing-a-number-as-a-decimal--percent
 video /root/math/arithmetic/decimals/representing-a-number-as-a-decimal--percent--and-fraction -gB1y-PMWfs
 video /root/math/arithmetic/decimals/points-on-a-number-line uC09taczvOo
 video /root/math/arithmetic/decimals/ordering-numeric-expressions_DUP_3 Llt-KkHugRQ
+exercise /root/math/arithmetic/decimals/adding_decimals_2
 topic /root/math/arithmetic/percents
 exercise /root/math/arithmetic/percents/converting_percents_to_decimals
 exercise /root/math/arithmetic/percents/discount_tax_and_tip_word_problems
@@ -303,6 +325,7 @@ video /root/math/arithmetic/percents/solving-percent-problems-3 DAikW24_O0A
 video /root/math/arithmetic/percents/growing-by-a-percentage X2jVap1YgwI
 video /root/math/arithmetic/percents/representing-a-number-as-a-decimal--percent--and-fraction-2 Hkwfibux88s
 video /root/math/arithmetic/percents/ordering-numeric-expressions_DUP_3 Llt-KkHugRQ
+exercise /root/math/arithmetic/percents/markup_and_commission_word_problems
 topic /root/math/arithmetic/basic-ratios-proportions
 video /root/math/arithmetic/basic-ratios-proportions/introduction-to-ratios--new-hd-version HpdMJaKaXXc
 video /root/math/arithmetic/basic-ratios-proportions/understanding-proportions V3FvaClh6LY
@@ -366,6 +389,8 @@ exercise /root/math/algebra/solving-linear-equations-and-inequalities/arithmetic
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_expressions_2
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_2
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_1
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/combining_like_terms_1
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/combining_like_terms_2
 topic /root/math/algebra/polynomials-and-quadratics
 exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_2
 exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_1
@@ -390,6 +415,14 @@ exercise /root/math/algebra/polynomials-and-quadratics/factoring_polynomials_2
 exercise /root/math/algebra/polynomials-and-quadratics/factoring_polynomials_1
 exercise /root/math/algebra/polynomials-and-quadratics/multiplying_expressions_1
 exercise /root/math/algebra/polynomials-and-quadratics/adding_and_subtracting_polynomials
+exercise /root/math/algebra/polynomials-and-quadratics/common_factors_of_a_polynomial_2
+exercise /root/math/algebra/polynomials-and-quadratics/common_factors_of_a_polynomial_1
+exercise /root/math/algebra/polynomials-and-quadratics/simplifying_rational_expressions_1
+exercise /root/math/algebra/polynomials-and-quadratics/simplifying_rational_expressions_2
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_3
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_difference_of_squares_4
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_polynomials_3
+exercise /root/math/algebra/polynomials-and-quadratics/factoring_polynomials_by_grouping_1
 topic /root/math/algebra/introduction-to-algebra
 video /root/math/algebra/introduction-to-algebra/the-beauty-of-algebra kpCJyQ2usJ4
 video /root/math/algebra/introduction-to-algebra/origins-of-algebra _LDR1_Prveo
@@ -403,6 +436,7 @@ video /root/math/algebra/solving-linear-equations/order-of-operations-example 3P
 video /root/math/algebra/solving-linear-equations/simple-equations 9Ek61w1LxSc
 video /root/math/algebra/solving-linear-equations/solving-one-step-equations VidnbCEOGdg
 video /root/math/algebra/solving-linear-equations/solving-one-step-equations-2 DqeMQHomwAU
+video /root/math/algebra/solving-linear-equations/algebra--linear-equations-1 bAerID24QJ0
 video /root/math/algebra/solving-linear-equations/one-step-equations 9DxrF6Ttws4
 video /root/math/algebra/solving-linear-equations/evaluate-a-formula-using-substitution tC1SfxRvtmM
 video /root/math/algebra/solving-linear-equations/example-of-solving-for-a-variable Aig1hkq3OsU
@@ -600,7 +634,6 @@ video /root/math/algebra/systems-of-eq-and-ineq/systems-of-three-variables pANZp
 video /root/math/algebra/systems-of-eq-and-ineq/systems-of-three-variables-2 f7cX-Ar2cEM
 video /root/math/algebra/systems-of-eq-and-ineq/solutions-to-three-variable-system K38zMmtjxEw
 video /root/math/algebra/systems-of-eq-and-ineq/three-equation-application-problem TJaHNxJk5-4
-video /root/math/algebra/systems-of-eq-and-ineq/solutions-to-three-variable-system K38zMmtjxEw
 video /root/math/algebra/systems-of-eq-and-ineq/solving-linear-systems-by-graphing 5a6zpfl50go
 video /root/math/algebra/systems-of-eq-and-ineq/solving-linear-systems-by-substitution V7H1oUHXPkg
 video /root/math/algebra/systems-of-eq-and-ineq/special-types-of-linear-systems 5qkyuHIE2GM
@@ -686,6 +719,8 @@ exercise /root/math/algebra/exponents-radicals/multiplying_and_dividing_scientif
 exercise /root/math/algebra/exponents-radicals/scientific_notation_intuition
 exercise /root/math/algebra/exponents-radicals/exponents_3
 exercise /root/math/algebra/exponents-radicals/exponents_2
+exercise /root/math/algebra/exponents-radicals/square_roots
+exercise /root/math/algebra/exponents-radicals/cube_roots
 video /root/math/algebra/exponents-radicals/understanding-exponents mJ1P4A-KA8k
 video /root/math/algebra/exponents-radicals/understanding-exponents-2 5qfOViJda_g
 video /root/math/algebra/exponents-radicals/exponent-rules-1 kSYJxGqOcjA
@@ -1190,6 +1225,14 @@ exercise /root/math/geometry/basic-geometry/measuring_segments
 exercise /root/math/geometry/basic-geometry/congruent_segments
 exercise /root/math/geometry/basic-geometry/segment_addition
 exercise /root/math/geometry/basic-geometry/midpoint_of_a_segment
+exercise /root/math/geometry/basic-geometry/perimeter_of_squares_and_rectangles
+exercise /root/math/geometry/basic-geometry/area_of_squares_and_rectangles
+exercise /root/math/geometry/basic-geometry/radius_diameter_and_circumference
+exercise /root/math/geometry/basic-geometry/area_of_a_circle
+exercise /root/math/geometry/basic-geometry/points_lines_and_planes
+exercise /root/math/geometry/basic-geometry/comparing_objects
+exercise /root/math/geometry/basic-geometry/ordering_objects
+exercise /root/math/geometry/basic-geometry/perimeter_1
 topic /root/math/geometry/intro-to-euclidean-geo
 video /root/math/geometry/intro-to-euclidean-geo/euclid-as-the-father-of-geometry WqzK3UAXaHs
 video /root/math/geometry/intro-to-euclidean-geo/language-and-notation-of-basic-geometry il0EJrY64qE
@@ -1249,6 +1292,14 @@ video /root/math/geometry/angles/inscribed-and-central-angles MyzGVbCHh5M
 video /root/math/geometry/angles/perpendicular-radius-bisects-chord q7eF5Ci944U
 video /root/math/geometry/angles/inradius-perimeter-and-area 5NjgcPri07E
 video /root/math/geometry/angles/2003-aime-ii-problem-7 jpKjXtywTlQ
+exercise /root/math/geometry/angles/corresponding_angles_2
+exercise /root/math/geometry/angles/alternate_interior_angles_2
+exercise /root/math/geometry/angles/alternate_exterior_angles_2
+exercise /root/math/geometry/angles/same_side_interior_angles_2
+exercise /root/math/geometry/angles/same_side_exterior_angles_2
+exercise /root/math/geometry/angles/angle_addition_postulate
+exercise /root/math/geometry/angles/exploring_angle_pairs_1
+exercise /root/math/geometry/angles/congruent_angles
 topic /root/math/geometry/triangles
 exercise /root/math/geometry/triangles/congruent_triangles_1
 exercise /root/math/geometry/triangles/congruent_triangles_2
@@ -1329,6 +1380,7 @@ video /root/math/geometry/triangles/review-of-triangle-properties KUhdMbx5ges
 video /root/math/geometry/triangles/euler-line tUqyJgmGY7k
 video /root/math/geometry/triangles/euler-s-line-proof t_EgAi574sM
 video /root/math/geometry/triangles/common-orthocenter-and-centroid pDZIvyeqX1o
+exercise /root/math/geometry/triangles/solving_similar_triangles_2
 topic /root/math/geometry/polygons-quads-parallelograms
 video /root/math/geometry/polygons-quads-parallelograms/quadrilateral-overview Ka82QC4QvGA
 video /root/math/geometry/polygons-quads-parallelograms/quadrilateral-properties 5CeBlu260Rw
@@ -1380,6 +1432,11 @@ video /root/math/geometry/geometry-worked-examples/ca-geometry--basic-trigonomet
 video /root/math/geometry/geometry-worked-examples/ca-geometry--more-trig 8YBQQ0GeusM
 video /root/math/geometry/geometry-worked-examples/ca-geometry--circle-area-chords-tangent FJIZPvE3O1A
 video /root/math/geometry/geometry-worked-examples/ca-geometry--secants-and-translations Mp838qprwyY
+topic /root/math/geometry/logical-reasoning
+exercise /root/math/geometry/logical-reasoning/logical_arguments_deductive_reasoning
+exercise /root/math/geometry/logical-reasoning/converse_inverse_and_contrapositive
+exercise /root/math/geometry/logical-reasoning/conditional_statements_2
+exercise /root/math/geometry/logical-reasoning/conditional_statements_and_truth_value
 topic /root/math/trigonometry
 exercise /root/math/trigonometry/trigonometry_1
 exercise /root/math/trigonometry/graphs_of_sine_and_cosine
@@ -1491,6 +1548,8 @@ video /root/math/probability/poisson-process-1 3z-M6sbGIZ0
 video /root/math/probability/poisson-process-2 Jkr4FSrNEVY
 video /root/math/probability/law-of-large-numbers VpuN8vCQ--M
 video /root/math/probability/term-life-insurance-and-death-probability NSSoMafbBqQ
+video /root/math/probability/lebron-asks-about-the-chances-of-making-10-free-throws iMqCSgqzmiQ
+exercise /root/math/probability/independent_probability
 topic /root/math/statistics
 exercise /root/math/statistics/standard_deviation
 exercise /root/math/statistics/exploring_standard_deviation_1
@@ -1510,6 +1569,7 @@ exercise /root/math/statistics/mean_median_and_mode
 exercise /root/math/statistics/exploring_mean_and_median
 exercise /root/math/statistics/reading_stem_and_leaf_plots
 exercise /root/math/statistics/reading_tables_2
+exercise /root/math/statistics/reading_bar_charts_3
 video /root/math/statistics/mean-median-and-mode k3aKKasOmIw
 video /root/math/statistics/range-and-mid-range 7DtWXEPB_AI
 video /root/math/statistics/reading-pictographs qrVvpYt3Vl0
@@ -1595,6 +1655,8 @@ video /root/math/statistics/u12-l1-t3-we1-inductive-reasoning-1 MnQ7Lizkpqk
 video /root/math/statistics/inductive-reasoning-2 ZSsBh4Ybbj8
 video /root/math/statistics/inductive-reasoning-3 pgfWkaySFGY
 video /root/math/statistics/u03-l1-t1-we2-inductive-patterns GvbrtnEYRpY
+exercise /root/math/statistics/z_scores_2
+exercise /root/math/statistics/z_scores_3
 topic /root/math/precalculus
 video /root/math/precalculus/introduction-to-limits--hd riXcZT2ICjA
 video /root/math/precalculus/introduction-to-limits W0VWO4asgmk
@@ -1836,6 +1898,21 @@ video /root/math/calculus/2011-calculus-bc-free-response--6c l1hJABkcuYI
 video /root/math/calculus/error-or-remainder-of-a-taylor-polynomial-approximation wgkRH5Uoavk
 video /root/math/calculus/proof--bounding-the-error-or-remainder-of-a-taylor-polynomial-approximation yUUPP70Fhpo
 video /root/math/calculus/2011-calculus-bc-free-response--6d m6oMgtGsAa4
+video /root/math/calculus/constructing-a-unit-normal-vector-to-a-curve _9x2cqO7-Ig
+video /root/math/calculus/2-d-divergence-theorem eoJGBr-tJXo
+video /root/math/calculus/conceptual-clarification-for-2-d-divergence-theorem qs0hRHfnzTQ
+video /root/math/calculus/surface-integral-example-part-1---parameterizing-the-unit-sphere E_Hwhp74Rhc
+video /root/math/calculus/surface-integral-example-part-2---calculating-the-surface-differential tyVCA_8MUV4
+video /root/math/calculus/surface-integral-example-part-3---the-home-stretch uzOXGgAgmPs
+video /root/math/calculus/surface-integral-ex2-part-1---parameterizing-the-surface PpUWpxAb39w
+video /root/math/calculus/surface-integral-ex2-part-2---evaluating-integral ItW5CxLsLSo
+video /root/math/calculus/surface-integral-ex3-part-1---parameterizing-the-outside-surface EOpzN8ZHqpU
+video /root/math/calculus/surface-integral-ex3-part-2---evaluating-the-outside-surface xGiILI906C4
+video /root/math/calculus/surface-integral-ex3-part-3---top-surface wiVWafc3JBM
+video /root/math/calculus/surface-integral-ex3-part-4---home-stretch bhrmEy0wvD0
+video /root/math/calculus/conceputal-understanding-of-flux-in-three-dimensions ivg3dLTarbs
+video /root/math/calculus/constructing-a-unit-normal-vector-to-a-surface usH9VUi2-Xg
+video /root/math/calculus/vector-representation-of-a-surface-integral NCwwfvPEVn8
 topic /root/math/differential-equations
 video /root/math/differential-equations/what-is-a-differential-equation -_POEWfygmU
 video /root/math/differential-equations/separable-differential-equations C5-lz0hcqsE
@@ -2050,16 +2127,24 @@ video /root/math/vi-hart/doodling-in-math-class--infinity-elephants DK5Z709J2eo
 video /root/math/vi-hart/doodling-in-math--sick-number-games Yhlv5Aeuo_k
 video /root/math/vi-hart/doodling-in-math-class--squiggle-inception ik2CZqsAw28
 video /root/math/vi-hart/doodling-in-math-class--triangle-party o6KlpIWhbcw
-video /root/math/vi-hart/the-gauss-christmath-special sxnX5_LbBDU
 video /root/math/vi-hart/m-bius-story--wind-and-mr--ug 4mdEsouIXGM
+video /root/math/vi-hart/math-improv--fruit-by-the-foot Am-a5x9DGjg
+video /root/math/vi-hart/wau--the-most-amazing--ancient--and-singular-number GFLkou8NvJo
+video /root/math/vi-hart/are-shakespeare-s-plays-encoded-within-pi uXoh6vi6J5U
+video /root/math/vi-hart/what-is-up-with-noises---the-science-and-mathematics-of-sound--frequency--and-pitch i_0DXxNeaQ0
+video /root/math/vi-hart/open-letter-to-nickelodeon--re--spongebob-s-pineapple-under-the-sea gBxeju8dMho
 video /root/math/vi-hart/how-to-snakes Gx5D09s5X6U
+video /root/math/vi-hart/origami-proof-of-the-pythagorean-theorem z6lL83wl31E
+video /root/math/vi-hart/9-999----reasons-that--999------1 TINfzxSnnIE
 video /root/math/vi-hart/pi-is--still--wrong jG7vhMMXagQ
+video /root/math/vi-hart/fractal-fractions a5z-OEIfw3s
+video /root/math/vi-hart/angle-a-trons o6W6P8JZW0o
 video /root/math/vi-hart/binary-hand-dance OCYZTg3jahU
 video /root/math/vi-hart/re--visual-multiplication-and-48-2-9-3 a-e8fzqv3CE
-video /root/math/vi-hart/origami-proof-of-the-pythagorean-theorem z6lL83wl31E
-video /root/math/vi-hart/what-is-up-with-noises---the-science-and-mathematics-of-sound--frequency--and-pitch i_0DXxNeaQ0
-video /root/math/vi-hart/angle-a-trons o6W6P8JZW0o
-video /root/math/vi-hart/are-shakespeare-s-plays-encoded-within-pi uXoh6vi6J5U
+video /root/math/vi-hart/the-gauss-christmath-special sxnX5_LbBDU
+video /root/math/vi-hart/rhapsody-on-the-proof-of-pi---4 D2xYjiL8yyE
+video /root/math/vi-hart/doodle-music Av_Us6xHkUc
+video /root/math/vi-hart/what-was-up-with-pythagoras X1E7I7_r3Cw
 topic /root/science
 topic /root/science/biology
 video /root/science/biology/introduction-to-evolution-and-natural-selection GcjgWov7mTM
@@ -2124,6 +2209,15 @@ video /root/science/biology/the-kidney-and-nephron cc8sUv2SuaY
 video /root/science/biology/secondary-active-transport-in-the-nephron czY5nyvZ7cU
 video /root/science/biology/species Tmt4zrDK3dA
 video /root/science/biology/taxonomy-and-the-tree-of-life oHvLlS_Sc54
+video /root/science/biology/human-prehistory-101--prologue Mm-IxK1GrYE
+video /root/science/biology/human-prehistory-101-part-1--out-of--eastern--africa 8183HPmA2_I
+video /root/science/biology/human-prehistory-101-part-2--weathering-the-storm T9Nw66RCMhg
+video /root/science/biology/human-prehistory-101-part-3--agriculture-rocks-our-world IVHD9wGlbho
+video /root/science/biology/human-prehistory-101--epilogue F-zRXHAo4-U
+video /root/science/biology/genetics-101-part-1--what-are-genes ubq4eu_TDFc
+video /root/science/biology/genetics-101-part-2--what-are-snps tJjXpiWKMyA
+video /root/science/biology/genetics-101-part-3--where-do-your-genes-come-from -Yg89GY61DE
+video /root/science/biology/genetics-101-part-4--what-are-phenotypes kLpr6t4-eLI
 topic /root/science/chemistry
 video /root/science/chemistry/elements-and-atoms IFKnq9QM6_A
 video /root/science/chemistry/introduction-to-the-atom 1xSQlwWGT8M
@@ -2599,7 +2693,6 @@ video /root/science/computer-science/flowchart-for-the-factorial-program EiR6cf8
 video /root/science/computer-science/python-3-not-backwards-compatible-with-python-2 WT-gS-8p7KA
 video /root/science/computer-science/defining-a-factorial-function JwO_25S_eWE
 video /root/science/computer-science/diagramming-what-happens-with-a-function-call 6qCQB8E5bkI
-video /root/science/computer-science/factorial-using-a-for-loop-in-python-2 iWufLwJkfoE
 video /root/science/computer-science/recursive-factorial-function o920mj0NbhE
 video /root/science/computer-science/comparing-iterative-and-recursive-factorial-functions kx6DfrYfWnQ
 video /root/science/computer-science/exercise---write-a-fibonacci-function Bdbc1ZC-vhw
@@ -2619,6 +2712,20 @@ video /root/science/brit-cruise/cryptography/the-fundamental-theorem-of-arithmet
 video /root/science/brit-cruise/cryptography/probability-space 1dPMsJ7I6BY
 video /root/science/brit-cruise/cryptography/frequency-stability vVXbgbMp0oY
 video /root/science/brit-cruise/cryptography/caesar-cipher sMOZf4GN3oc
+video /root/science/brit-cruise/cryptography/polyalphabetic-cipher BgFJD7oCmDE
+video /root/science/brit-cruise/cryptography/one-time-pad FlIG3TvQCBQ
+video /root/science/brit-cruise/cryptography/case-study--ww2-encryption-machines 2cqbeSVhLBM
+video /root/science/brit-cruise/cryptography/perfect-secrecy cAt6MYoGqJ4
+video /root/science/brit-cruise/cryptography/random-vs--pseudorandom-number-generators itaMNuWLzJo
+video /root/science/brit-cruise/cryptography/diffie-hellman-key-exchange YEBfamv-_do
+topic /root/science/mit-k12
+video /root/science/mit-k12/indoor-flying-robots SbbBzV6pcFg
+video /root/science/mit-k12/the-invention-of-the-battery elBVeO71_jY
+video /root/science/mit-k12/the-forces-on-an-airplane aLJzEl5st8s
+video /root/science/mit-k12/flocculation 5uuQ77vAV_U
+video /root/science/mit-k12/a-voyage-to-mars--bone-loss-in-space Tg_zP6csk9g
+video /root/science/mit-k12/bread-mold-kills-bacteria pvEfyJc4QPA
+video /root/science/mit-k12/bouncing-droplets--superhydrophobic-and-superhydrophilic-surfaces PPJ0Khs7uWs
 topic /root/finance-economics
 topic /root/finance-economics/core-finance
 video /root/finance-economics/core-finance/introduction-to-interest GtaoP0skPWc
@@ -2989,7 +3096,6 @@ video /root/finance-economics/microeconomics/monopolist-optimizing-price--part-1
 video /root/finance-economics/microeconomics/monopolist-optimizing-price--part-2---marginal-revenue s1UQQELPyrc
 video /root/finance-economics/microeconomics/monopolist-optimizing-price--part-3---dead-weight-loss-avi daxL1ZLrUzg
 video /root/finance-economics/microeconomics/optional-calculus-proof-to-show-that-mr-has-twice-slope-of-demand atI4QH2acuw
-video /root/finance-economics/microeconomics/review-of-revenue-and-cost-graphs-for-a-monopoly CoT8baoESTA
 video /root/finance-economics/microeconomics/oligopolies-and-monopolisitc-competition PzDthFTzEa0
 video /root/finance-economics/microeconomics/monopolistic-competition-and-economic-profit RUVsEovktGU
 video /root/finance-economics/microeconomics/oligopolies--duopolies--collusion--and-cartels N0L00FZnhtg
@@ -3053,6 +3159,31 @@ video /root/finance-economics/macroeconomics/full-reserve-banking RGMcswR8DnY
 video /root/finance-economics/macroeconomics/money-supply--m0-m1-and-m2 _LPh72gx6GE
 video /root/finance-economics/macroeconomics/simple-fractional-reserve-accounting-part-1 VJgVdzicv_I
 video /root/finance-economics/macroeconomics/simple-fractional-reserve-accounting--part-2 PASajlCGBTw
+video /root/finance-economics/macroeconomics/mpc-and-multiplier O_Oozju3RRI
+video /root/finance-economics/macroeconomics/mathy-version-of-mpc-and-multiplier--optional czfJKPN-HEo
+video /root/finance-economics/macroeconomics/consumption-function-basics o5iot_ZsoV0
+video /root/finance-economics/macroeconomics/generalized-linear-consumption-function N44RZtJ4jj4
+video /root/finance-economics/macroeconomics/consumption-function-with-income-dependent-taxes wHPGFPIcILM
+video /root/finance-economics/macroeconomics/keynesian-cross sTw0e-hwYAQ
+video /root/finance-economics/macroeconomics/details-on-shifting-aggregate-planned-expenditures xF_Z4QK0tsA
+video /root/finance-economics/macroeconomics/keynesian-cross-and-the-multiplier aSY8XPGChAU
+video /root/finance-economics/macroeconomics/investment-and-real-interest-rates 72p6uw5y-Rw
+video /root/finance-economics/macroeconomics/connecting-the-keynesian-cross-to-the-is-curve AW3bPaErUWU
+video /root/finance-economics/macroeconomics/loanable-funds-interpretation-of-is-curve blbR5f2dq_g
+video /root/finance-economics/macroeconomics/lm-part-of-the-is-lm-model yro2jLBfyDQ
+video /root/finance-economics/macroeconomics/government-spending-and-the-is-lm-model pzQnc_0eZA8
+video /root/finance-economics/macroeconomics/balance-of-payments--current-account dirBYVjDk7A
+video /root/finance-economics/macroeconomics/balance-of-payments--capital-account AimYG1jYD0A
+video /root/finance-economics/macroeconomics/why-current-and-capital-accounts-net-out tYmMEqro8D4
+video /root/finance-economics/macroeconomics/accumulating-foreign-currency-reserves HiphWQfB6J0
+video /root/finance-economics/macroeconomics/using-reserves-to-stablize-currency TZ7d5kjAlQw
+video /root/finance-economics/macroeconomics/speculative-attack-on-a-currency P2IWGlR1SHs
+video /root/finance-economics/macroeconomics/financial-crisis-in-thailand-caused-by-speculative-attack lA3sjWwu5-s
+video /root/finance-economics/macroeconomics/math-mechanics-of-thai-banking-crisis 9p3HNMe-oAI
+video /root/finance-economics/macroeconomics/greek-debt-recession-and-austerity--part-1 9p10aMu1Glo
+video /root/finance-economics/macroeconomics/greek-financial-crisis--part-2 CkNArgNPI2Y
+video /root/finance-economics/macroeconomics/how-and-why-greece-would-leave-the-euro--part-3 jkmwAJMERrY
+video /root/finance-economics/macroeconomics/why-europe-is-worried-about-greece xc-TSAQkqJ0
 topic /root/humanities
 topic /root/humanities/history
 video /root/humanities/history/us-history-overview-1--jamestown-to-the-civil-war ghgPq2wjQUQ
@@ -3094,280 +3225,380 @@ topic /root/humanities/art-history
 topic /root/humanities/art-history/art-history-400-c-e--ancient-cultures
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/phidias------sculpture-from-the-east-pediment-of-the-parthenon--c--448-432-b-c-e Ip6hmC2KIug
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/head-of-augustus--c--27-25-b-c-e bhE7cHE4wF0
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/law-code-stele-of-king-hammurabi--792-1750-b-c-e _w5NGOHbgTw
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/victory-stele-of-naram-sin--2254-2218-b-c-e OY79AuGZDNI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/standard-of-ur--c--2600-2400-b-c-e Nok4cBt0V6w
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/colosseum--amphitheatrum-flavium---c--70-80-c-e---rome 9wguQaBYKec
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/great-lyre-from-the--king-s-grave---c--2650-2550-b-c-e ZJm7Qgef3ks
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/the-seated-scribe---c--2620-2500-b-c-e cxs1d3N60UI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/law-code-stele-of-king-hammurabi--792-1750-b-c-e _w5NGOHbgTw
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/the-arch-of-titus--81-c-e Huop6oiCgVg
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/unknown-sculptor--venus--4th-century-b-c-e hXQa7psqSTY
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/great-lyre-from-the--king-s-grave---c--2650-2550-b-c-e ZJm7Qgef3ks
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/the-pergamon-altar--c--200-150-b-c-e L3SIooVHV8E
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/mixing-vessel-with-odysseus-escaping-from-the-cyclops-s-cave--550-500-b-c-e BDo3L3vqE6M
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/ramesses-ii--egypt--c--1250 PXUKfJ4XDk4
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/rosetta-stone--196-b-c-e OFXY9-pec1I
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/unknown-sculptor--venus--4th-century-b-c-e hXQa7psqSTY
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/a-tour-of-hadrian-s-villa-with-dr--bernard-frischer d5bwp3h-6U4
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/phidias-----parthenon-frieze--c--438-32-b-c-e KzZF1lP4Rbk
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/column-of-trajan--completed-113-c-e MFt3tHNevJg
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/kouros--youth---archaic-greek--c--590--580-b-c-e JCTPh_QDlCY
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/battle-of-the-lapiths-and-centaurs--parthenon-metope--c--440-b-c-e XXl5h257iBA
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/human-headed-winged-lion-and-bull--lamassu---883--859-b-c-e 4pwfuHY-AjI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/pair-of-centaurs-fighting-cats-of-prey-from-hadrian-s-villa--c--130-b-c-e -1Erk2Py7-0
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/caryatid---ionic-column--erechtheion--421-407-b-c-e X872rmThCF8
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/krater--ca--750--700-b-c-e hfu1LZ8LTU0
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/column-of-trajan--completed-113-c-e MFt3tHNevJg
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/ishtar-gate-and-processional-way--reconstruction---babylon--c--575-b-c-e U2iZ83oIZH0
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/medea-sarcophagus--140---150-c-e wE7_9Xce6LM
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/nike--winged-victory--of-samothrace--c--190-b-c-e TPM1LuW3Y5w
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/equestrian-sculpture-of-marcus-aurelius---c--173-76-c-e D4nK5uXuPXM
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/dying-gaul--c--220-b-c-e 3M4pu6YtzJU
-video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/statue-of-sleeping--eros-and-statue-of-an-old-market-woman Vs2BfQ5_tjI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/nude-woman--venus-of-willendorf---c--28-000-25-000-b-c-e ENAZqOoOVaI
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/arch-of-constantine--315-c-e mK9y-sPn_AY
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/the-seated-scribe---c--2620-2500-b-c-e cxs1d3N60UI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/statue-of-sleeping--eros-and-statue-of-an-old-market-woman Vs2BfQ5_tjI
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/ramesses-ii--egypt--c--1250 PXUKfJ4XDk4
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/rosetta-stone--196-b-c-e OFXY9-pec1I
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/krater--ca--750--700-b-c-e hfu1LZ8LTU0
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/dying-gaul--c--220-b-c-e 3M4pu6YtzJU
+video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/a-tour-through-ancient-rome-in-320-c-e VAgA6G75XsI
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/temple-of-portunus--rome--c--120-80-b-c-e 5u1Nrmdyd-A
 video /root/humanities/art-history/art-history-400-c-e--ancient-cultures/the-pantheon--rome--c--125 oaw3EGnJwVw
 topic /root/humanities/art-history/art-history-400-1300-medieval-era
+video /root/humanities/art-history/art-history-400-1300-medieval-era/birth-of-the-gothic--abbot-suger-and-the-ambulatory-in-the-basilica-of-st--denis--1140-44 2EciWH-1ya4
+video /root/humanities/art-history/art-history-400-1300-medieval-era/tympanum-of-the-last-judgment--autun PATkTJhAUhM
 video /root/humanities/art-history/art-history-400-1300-medieval-era/sutton-hoo-ship-burial--c--700 dWxcQZBM3eQ
 video /root/humanities/art-history/art-history-400-1300-medieval-era/virgin-from-ger--second-half-of-the-12th-century KwYhMXjMlvc
 video /root/humanities/art-history/art-history-400-1300-medieval-era/the-wise-and-foolish-virgins--late-11th-century-early-12th-century ZXJMwIDx29Q
+video /root/humanities/art-history/art-history-400-1300-medieval-era/coronation-mantle--new JOkEfbaaK-o
 video /root/humanities/art-history/art-history-400-1300-medieval-era/sarcophagus-of-junius-bassus--marble--359-c-e UjX4ExCixWY
-video /root/humanities/art-history/art-history-400-1300-medieval-era/basilica-of-santa-sabina--rome--c--432 VeZ3_VZytPw
-video /root/humanities/art-history/art-history-400-1300-medieval-era/mosaics--santa-prassede--rome--early-9th-century 6FL81EVJTUE
 video /root/humanities/art-history/art-history-400-1300-medieval-era/justinian-and-his-attendants--6th-century--ravenna bJ2knbAEcY8
+video /root/humanities/art-history/art-history-400-1300-medieval-era/mosaics--santa-prassede--rome--early-9th-century 6FL81EVJTUE
+video /root/humanities/art-history/art-history-400-1300-medieval-era/basilica-of-santa-sabina--rome--c--432 VeZ3_VZytPw
 video /root/humanities/art-history/art-history-400-1300-medieval-era/capitals--church-of-sant-miquel--early-13th-century hPYOMKQlU1g
 video /root/humanities/art-history/art-history-400-1300-medieval-era/byzantine-panel-with-archangel--c--525-50 f7J0WQsajX8
 video /root/humanities/art-history/art-history-400-1300-medieval-era/basilica-of-santa-maria-maggiore--rome--5th-century-a-d S2P4I_hFnFI
 video /root/humanities/art-history/art-history-400-1300-medieval-era/bonaventura-berlinghieri--altarpiece-of-st--francis--c--1235 ZK85rWtrklU
 video /root/humanities/art-history/art-history-400-1300-medieval-era/part-1--cathedral-of-notre-dame-de-chartres--c-1145-and-1194-c-1220 w8QRG-Xc6oU
+video /root/humanities/art-history/art-history-400-1300-medieval-era/bodhisattva--probably-avalokiteshvara--guanyin---northern-qi-dynasty--c--550--60 8jFxkEQacVA
 video /root/humanities/art-history/art-history-400-1300-medieval-era/pre-columbian-cup--bat-n-grande-tombs--c--850-1250 dRMGqKA5xKI
 topic /root/humanities/art-history/art-history-1300-1400-proto-renaissance
-video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/duccio--the-rucellai-madonna--1285-86 1JL5ZR-ocOs
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/cimabue--maesta-of-santa-trinita--1280-900-1290 dpsEXM1JjhE
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/duccio--the-rucellai-madonna--1285-86 1JL5ZR-ocOs
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/duccio--madonna-and-child--c--1300 0d9TB0DAOyY
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/sienese-art--duccio--martini--and-lorenzetti 0zfBltgsGVA
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/giotto--the-lamentation--c--1305 2nXBXfyODfc
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/nicola-and-giovanni-pisano--1260-1301 DXEG8l1FRRk
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/ambrogio-lorenzetti---presentation-of-jesus-in-the-temple--1342 _lzdhIHLwcQ
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/giotto--st--francis-receiving-the-stigmata--c--1295-1300 MQct5EFQ9x8
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/duccio--the-virgin-and-child--c--1315 Pu1WCHsYfKQ
-video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/astrolabe--c--1345-55 TsM6ls5G1Cc
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/martini--annunciation--1333 7PsgPJoGWig
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/giotto--the-ognissanti-madonna--1306-10 P9s3YA-glNk
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/andrea-pisano--reliefs-for-the-florence-campanile--c--1336 ncgAfzRSJrI
-video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/icon-of-saint-george--the--black-george----late-14th-century OdRBzITeIcs
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/claus-sluter--well-of-moses xdIVZrr_8tI
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/giotto--the-entombment-of-mary--1310 be9rz_HOnXI
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/holy-thorn-reliquary--made-in-paris-for-jean--duc-de-berry---c--1390s PZKaQO2L2e4
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/astrolabe--c--1345-55 TsM6ls5G1Cc
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/icon-of-saint-george--the--black-george----late-14th-century OdRBzITeIcs
 video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/follower-of-daddi--the-aldobrandini-triptych--c--1336 TKfJ2444F6s
+video /root/humanities/art-history/art-history-1300-1400-proto-renaissance/buddha-of-medicine-bhaishajyaguru--yaoshi-fo---c--1319 CHfU9EDwOwU
 topic /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/orsanmichele--florence--1349-loggia--1380-1404-upper-stories -V51ZjxFeH4
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/campin--merode-altarpiece--1425-28 WdDzs70Txjs
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/patronage--a-case-study-of-images-of-david-in-the-renaissance EFX96d-xO0E
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/fra-filippo-lippi--madonna-and-child--c--1440 049sSl4lEuk
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/jan-van-eyck--ghent-altarpiece---closed---completed-1432 zBfMweJPBrQ
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/patronage--a-case-study-of-images-of-david-in-the-renaissance EFX96d-xO0E
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/linear-perspective--brunelleschi-s-experiement bkNMM8uiMww
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/jan-van-eyck--ghent-altarpiece---closed---completed-1432 zBfMweJPBrQ
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/donatello--david--bronze--c--1440s 6kUUJJV_MNA
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/jan-van-ecyk--the-ghent-altarpiece--open---completed-1432 xwJKfhLMhEk
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/giovanni-bellini--saint-francis-in-the-desert--circa-1480 STs6h1qUSGs
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/mantegna--dead-christ--c--1490 IiB8Cvhhvvw
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/fra-fillippo-lippi--portrait-of-a-man-and-woman-at-a-casement--c--1440 wf8L9AZa2H4
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/jan-van-ecyk--the-ghent-altarpiece--open---completed-1432 xwJKfhLMhEk
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/van-eyck--portrait-of-giovanni-arnolfini-and-his-wife--1434 U38V_XwaRxM
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/masaccio--the-tribute-money--fresco--1427 KoEkpFW8poQ
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/christus--portrait-of-a-carthusian--1446 2b7Qv5dtdf8
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/masaccio--the-tribute-money--1427 oDPNSPbjzQ8
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/petrus-christus--portrait-of-a-young-woman--c--1470 bcrsyGxUbkA
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/fra-angelico--the-annunciation--c--1438-47 3B-V_pG3HPQ
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/christus--portrait-of-a-carthusian--1446 2b7Qv5dtdf8
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/fra-angelico--the-annunciation-and-life-of-the-virgin--in-the-predella---c--1426 6lH7zWK_SAg
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/rogier-van-der-weyden--deposition--c--1435 SLf_oAkngP4
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/hugo-van-der-goes--the-adoration-of-the-kings--monforte-altar---c--1470 B0eHEo-f6fc
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/fra-filippo-lippi--madonna-and-child-with-two-angels--c--1460-1465 Ly2-n1KqNko
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/andrea-mantegna--saint-sebastian--c--1456-59 y1_N1GAsS5I
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/donatello--st--mark--1411-13 A8GQfq3U96M
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/andrea-mantegna--camera-degli-sposi--frescos-in-the-ducal-palace--mantua---1465-74 ognhz97dBhY
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/rogier-van-der-weyden--crucifixion-triptych--c--1445 HhN5Zkbpt_k
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/rogier-van-der-weyden--deposition--c--1435 SLf_oAkngP4
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/jan-van-eyck--the-madonna-in-the-church--c--1438 RkUdm-GiSVc
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/masaccio--holy-trinity--c--1427 Kl4Dcj9o570
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/piero-della-francesca--the-baptism-of-christ--1450s qv2K1yk0LCE
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/botticelli--the-birth-of-venus--1483-85 0gAnctKk8tA
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/the-unicorn-in-captivity--1495-1505 26WASJHF46A
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/botticelli--the-birth-of-venus--1483-85 tdp22elrY7s
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/andrea-mantegna--camera-degli-sposi--frescos-in-the-ducal-palace--mantua---1465-74 ognhz97dBhY
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/piero-della-francesca--portraits-of-the-duke-and-duchess-of-urbino--1467-72 XIkryXkz8a4
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/icon-of-the-triumph-of-orthodoxy--byzantine---c--1400 ZH0P0uBY3PY
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/the-unicorn-in-captivity--1495-1505 26WASJHF46A
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/donatello--st--mark--1411-13 A8GQfq3U96M
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/mantegna--dormition--or-death--of-the-virgin--c--1462 Du-0kAn4u6w
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/masaccio--madonna-enthroned--1426 6LurHwFfrIA
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/veneziano--saint-lucy-altarpiece--1445-47 -yfjQGg-aMA
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/donatello--feast-of-herod-1423-27 J9_ouZpBknM
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/donatello--madonna-of-the-clouds--c--1425--35 q3N1IqBoKSo
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/robert-campin--christ-and-the-virgin--c--1430-35 Axox0C6aoTo
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/rogier-van-der-weyden--the-last-judgment--1446-52 uFiyXC_x2U0
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/brunelleschi--dome-of-the-cathedral-of-florence--1420-36 TQ8F_yPwqzA
-video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/botticelli--la-primavera--spring---1481-1482 qwZn852brII
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/rogier-van-der-weyden--the-crucifixion--with-the-virgin-and-st--john-the-evangelist-----c--1460 ULgGEXBmNlw
 video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/ghiberti-and-brunelleschi--competition-panels HIJSZ_KO-FY
-topic /root/humanities/art-history/art-history-1500-1600-the-reformation
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/parmigianino--madonna-of-the-long-neck--1530-33 suIUUGdNyWk
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/raphael--madonna-of-the-goldfinch--1505-6 jHN0BfowL7s
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--piet---1498-1500 JbWGusfynCw
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/durer--the-four-apostles--1526 rZknTGYISQk
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/raphael--italian---la-belle-jardini-re--also--madonna-and-child-with-saint-john-the-baptist---1507 sv9CHsd546Q
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/pontormo--entombment--or-deposition-from-the-cross--1525-28 d8dMYBPBX4g
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/leonardo-da-vinci--adoration-of-the-magi--1481-mov QxNqWZPzsGw
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/verrocchio--with-leonardo---baptism-of-christ--1470-75 3YMEIjHl9og
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/leonardo-da-vinci--the-virgin-of-the-rocks--c--1491-1508 94xKRkCHlv0
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/leonardo-da-vinci--renaissance-artist PBXb6AEZrWw
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/parmigianino--self-portrait-in-a-convex-mirror--1524 3sU7V6xx268
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/printmaking--woodcuts-and-engravings k4edY2aXgbY
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/raphael--alba-madonna--c--1510 ln9VIRiocps
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/leonardo-da-vinci--last-supper--1495-98 4NEXxAGG79A
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/bellini---titian--feast-of-the-gods--1514-and-1529 Mx59hYSFCeA
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--moses--ca--1513-15 pnBbFIxCIGw
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/bronzino---the-mannerist-portrait 4mpFcaeElCs
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--the-dying-slave-and-the-rebellious-slave--1513-15 h44bnIGogu8
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/benvenuto-cellini--perseus-with-the-head-of-medusa--c--1554 ZdTm669G7ik
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/d-rer--self-portrait--1498 OQEWArXaCeg
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/raphael--school-of-athens zpLEUF8qS3o
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/titian--portrait-of-a-man--man-with-a-quilted-sleeve---c--1510-20 AAeBt4zGDUA
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/raphael--portrait-of-pope-julius-ii--1511 w6DDMwsyQaA
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--last-judgment--sistine-chapel-ceiling--1628-1629 Y-5agYcN9uU
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--ceiling-of-the-sistine-chapel--1508-12 gqrgWXAS9O8
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/saint-peter-s-basilica--vatican-city--begun-1506--completed-1626 R5UK0dEFSoM
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/cranach-the-elder--adam-and-eve--1526 g4XZGhnFOwM
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/hans-holbein-the-younger--portrait-of-henry-viii--1540 -wTI7EC-i30
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/leonardo--the-virgin-and-child-with-st-anne-and-st-john-the-baptist--1499-1500 L4F2lgyi7FA
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/titian--bacchus-and-ariadne--1523-24 bYyxwxEqTQo
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/japanese-negoro-ware-ewer--latter-16th-century _M_zc7DDZbU
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/david--virgin-and-child-with-angels--ca--1510-15 xrA7-dNDsiE
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/el-greco--adoration-of-the-shepherds--c--1612-14 3_-hYeuJTzQ
-video /root/humanities/art-history/art-history-1500-1600-the-reformation/michelangelo--laurentian-library--1524-71 tUOKkeEOkXk
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/botticelli--la-primavera--spring---1481-1482 qwZn852brII
+video /root/humanities/art-history/art-history-1400-1500-renaissance-in-italy-and-the-north/francesco-di-giorgio-martini--attributed---architectural-veduta--c--1490 5wptm7lPZyE
+topic /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/parmigianino--madonna-of-the-long-neck--1530-33 suIUUGdNyWk
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--piet---1498-1500 JbWGusfynCw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--madonna-of-the-goldfinch--1505-6 jHN0BfowL7s
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--adoration-of-the-magi--1481-mov QxNqWZPzsGw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/pontormo--entombment--or-deposition-from-the-cross--1525-28 d8dMYBPBX4g
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/durer--the-four-apostles--1526 rZknTGYISQk
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--italian---la-belle-jardini-re--also--madonna-and-child-with-saint-john-the-baptist---1507 sv9CHsd546Q
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/verrocchio--with-leonardo---baptism-of-christ--1470-75 3YMEIjHl9og
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/pieter-bruegel-the-elder--the-dutch-proverbs--1559 mSPumIx85l8
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--the-virgin-of-the-rocks--c--1491-1508 94xKRkCHlv0
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--renaissance-artist PBXb6AEZrWw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/printmaking--woodcuts-and-engravings k4edY2aXgbY
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/titian--noli-me-tangere--c--1514 Rw8XE6hvHBo
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/parmigianino--self-portrait-in-a-convex-mirror--1524 3sU7V6xx268
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--alba-madonna--c--1510 ln9VIRiocps
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/rosso-fiorentino--the-dead-christ-with-angels--c--1524-7 2lXL4HscWGI
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--last-supper--1495-98 4NEXxAGG79A
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/bellini---titian--feast-of-the-gods--1514-and-1529 Mx59hYSFCeA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--moses--ca--1513-15 pnBbFIxCIGw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/bronzino---the-mannerist-portrait 4mpFcaeElCs
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/cranach-the-elder--adam-and-eve--1526 g4XZGhnFOwM
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--the-dying-slave-and-the-rebellious-slave--1513-15 h44bnIGogu8
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/hans-holbein-the-younger--the-merchant-georg-gisze--1532 kK38qqvLQ2I
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/d-rer--self-portrait--1498 OQEWArXaCeg
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/hans-holbein-the-younger--the-ambassadors--1533 PQZUIGzinZA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--school-of-athens zpLEUF8qS3o
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/benvenuto-cellini--perseus-with-the-head-of-medusa--c--1554 ZdTm669G7ik
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--last-judgment--sistine-chapel-ceiling--1628-1629 Y-5agYcN9uU
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/titian--portrait-of-a-man--man-with-a-quilted-sleeve---c--1510-20 AAeBt4zGDUA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--ceiling-of-the-sistine-chapel--1508-12 gqrgWXAS9O8
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/hans-holbein-the-younger--christina-of-denmark--duchess-of-milan--1538 hJOU3EK085M
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--portrait-of-pope-julius-ii--1511 w6DDMwsyQaA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo--the-virgin-and-child-with-st-anne-and-st-john-the-baptist--1499-1500 L4F2lgyi7FA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/saint-peter-s-basilica--vatican-city--begun-1506--completed-1626 R5UK0dEFSoM
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/hans-holbein-the-younger--portrait-of-henry-viii--1540 -wTI7EC-i30
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/gerard-david--the-virgin-and-child-with-saints-and-donor--c--1510 9fiJ7mSzamw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/david--virgin-and-child-with-angels--ca--1510-15 xrA7-dNDsiE
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/titian--bacchus-and-ariadne--1523-24 bYyxwxEqTQo
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/lucas-cranach-the-elder--cupid-complaining-to-venus--c--1525 baifq1b1-i4
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/bronzino--portrait-of-eleonora-di-toledo-with-her-son-giovanni--1544-1545 fpgvjMKCyAA
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/paolo-veronese--the-family-of-darius-before-alexander--1565-67 YnYknwUqaCM
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/lucas-cranach-the-elder--judith-with-the-head-of-holofernes--c--1530 jnxA293u8cs
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/paolo-veronese--the-dream-of-saint-helena--c--1570 PI9DjVjeV2A
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/titian--venus-of-urbino--1538 qD6ct0VS15c
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/albrecht-d-rer--the-large-piece-of-turf--1503 znVEFfIdo1o
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/el-greco--adoration-of-the-shepherds--c--1612-14 3_-hYeuJTzQ
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--laurentian-library--1524-71 tUOKkeEOkXk
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/pieter-bruegel-the-elder--the-tower-of-babel--1563 K6BKDveCd9w
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/jacopo-tintoretto--the-origin-of-the-milky-way--c--1575 Bgrwohxf9Ws
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/japanese-negoro-ware-ewer--latter-16th-century _M_zc7DDZbU
 topic /root/humanities/art-history/art-history-1600-1700-the-baroque
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--narcissus-at-the-source--1597-99 JrTsNuUQXzU
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--david--1623-24 YKzHdQKX9RA
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/gian-lorenzo-bernini--pluto-and-proserpina--1621-22 3motcx0GRck
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--narcissus-at-the-source--1597-99 JrTsNuUQXzU
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/francesco-borromini--san-carlo--1638---1646 Wm-akMcsHEc
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/jan-vermeer--the-glass-of-wine--c--1661 uvA6YY4yHtM
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/gian-lorenzo-bernini--pluto-and-proserpina--1621-22 3motcx0GRck
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--contarelli-chapel--san-luigi-dei-francesi--rome OcUMAHfo9MA
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/pierre-le-gros-the-younger--stanislas-kostka-on-his-deathbed--1703 FgVkgR1bXvY
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/rembrandt-van-rijn--bathsheba-at-her-bath--1654 wsL4Uh0BrQw
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/vermeer--young-woman-with-a-water-pitcher---c--1662 _38xl7p4VaM
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/pierre-le-gros-the-younger--stanislas-kostka-on-his-deathbed--1703 FgVkgR1bXvY
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio-s-calling-of-st--matthew--c--1599-1600 SZF5K8epWko
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/vermeer--young-woman-with-a-water-pitcher---c--1662 _38xl7p4VaM
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/nicolas-poussin--landscape-with-saint-john-on-patmos--1640 H3uBAVI4xC4
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/guercino--st-luke-displaying-a-painting-of-the-virgin--1652-53 EczhLjFtyio
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/frans-hals--malle-babbe--c--1633 9fEublFSTOg
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/vel-zquez--las-meninas--c--1656 IiTtGENiVOA
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--crucifixion-of-st--peter--1601 cLICU2cDHrs
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/rembrandt--a-girl-at-a-window--1645 xSixUm1cXSw
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/il-gesu--rome--consecrated-1584 aj2el_owSg4
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/rembrandt--the-three-crosses--1653 7PA0T4_KYC0
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/pozzo--st--ignatius-chapel--il-gesu--rome--commissioned-in-1695 A3vkqYgJ93c
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--apollo-and-daphne--1622-25 e3RSRrUL1Os
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--st--peter-s-piazza--1656-67 ljmwlMTH5Tk
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--apollo-and-daphne--1622-25 e3RSRrUL1Os
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/pozzo--st--ignatius-chapel--il-gesu--rome--commissioned-in-1695 A3vkqYgJ93c
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/frans-hals--singing-boy-with-flute--c--1623 iQ5uG6ryCa4
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/rubens--arrival--or-disembarkation--of-marie-de-medici-at-marseilles-1621-25 fbwW9mHFcgk
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/vel-zquez--los-borrachos--the-drunks---1628-1629 dNoeLF6I52s
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--bust-of-medusa--c--1644-48 W3a2QIm3cXM
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/claude-lorrain--the-judgment-of-paris--1645-46 8srKBSBnCNg
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini---ecstasy-of-st--theresa DYwKtRRab9Y
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/peter-paul-rubens--the-consequences-of-war--1638-39 K9iMsmhBOjk
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/vel-zquez--vulcan-s-forge--c--1630 qoHva5i85Qo
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/jan-van-huysum--vase-with-flowers--c--1718-20 WOnOq9YIrWI
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/antoine-or-louis-le-nain--peasant-family-in-an-interior--2nd-quarter-of-the-17th-century ZSh1ksh1iO4
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini---ecstasy-of-st--theresa DYwKtRRab9Y
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/rembrandt-s-self-portraits LisBmGk1koY
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/antoine-or-louis-le-nain--peasant-family-in-an-interior--2nd-quarter-of-the-17th-century ZSh1ksh1iO4
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/artemisia-gentileschi--self-portrait-as-the-allegory-of-painting--1638-39 YfW0v78aHXg
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/gian-lorenzo-bernini--cathedra-petri--chair-of-st--peter---c--120-80-b-c-e z-yC6Owcg7g
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--the-supper-at-emmaus--1601 asLQmxK7ExY
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/annibale-carracci--crucifixion--1583 7Hc08dgjLrM
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/carracci--palazzo-farnese-ceiling--1597-1606 DR9ad67Ftv0
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/caravaggio--death-of-the-virgin--1605-06 TkH-yjJ35vU
+video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--sant-andrea-al-quirinale EhEg8Wx_NA8
 video /root/humanities/art-history/art-history-1600-1700-the-baroque/ribera--the-martyrdom-of-saint-philip--1639 xz5DhwMsS1A
-video /root/humanities/art-history/art-history-1600-1700-the-baroque/bernini--sant-andrea-al-quirinale--1658-70 uvc4kiqiu1w
 topic /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment
-video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/david--oath-of-the-horatii--1784 50yBFkbD0Kk
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/jacques-louis-david--death-of-socrates--1787 7yqR9LEBf_k
+video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/david--oath-of-the-horatii--1784 50yBFkbD0Kk
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/fragonard--the-swing--1767 rVI5Sjm0xKI
+video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/jean-honor--fragonard--the-progress-of-love--the-meeting--1771-1773 w1dqzlTTm0E
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/girodet--the-sleep-of-endymion--1791 2B68DWcOLj0
+video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/john-singleton-copley--a-boy-with-a-flying-squirrel--henry-pelham---1765 60u_ctp6UIw
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/fran-ois-boucher--venus-consoling-love--1751 OSP1o2Zsbts
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/lisabeth-louise-vigee-le-brun--madame-perregaux--1789 6V9x0d5wRpI
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/boucher--madame-de-pompadour--1750 lnJRkY0mZh4
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/david--the-lictors-returning-to-brutus-the-bodies-of-his-sons--1789 UQiNvDOJi0c
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/david--the-intervention-of-the-sabine-women--1799 ovOKjwLE4qA
-video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/jacques-louis-david--the-emperor-napoleon-in-his-study-at-the-tuileries--1812 Go5nAAwQnpA
 video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/reynolds--lady-cockburn-and-her-three-eldest-sons--1773 NX3M0NTYTYg
+video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/jacques-louis-david--the-emperor-napoleon-in-his-study-at-the-tuileries--1812 Go5nAAwQnpA
+video /root/humanities/art-history/art-history-1700-1800-age-of-enlightenment/charles-willson-peale--staircase-group--portrait-of-raphaelle-peale-and-titian-ramsay-peale---1795 Vm1_vSny4BY
 topic /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/delacroix--scene-of-the-massacre-at-chios--greek-families-awaiting-death-or-slavery--1824 CyNjK7dv-IM
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/delacroix--liberty-leading-the-people--1830 BP5mCFyBCq8
-video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/turner--rain--steam--and-speed----the-great-western-railway--1844 pPsqUFuysbU
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/images-and-power---goya-s-third-of-may--1808--1814 7S1zvronnTo
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/caspar-david-friedrich--abbey-among-oak-trees--1809-or-1810 _DgeQ7rpIHI
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/turner--rain--steam--and-speed----the-great-western-railway--1844 pPsqUFuysbU
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/delacroix--the-death-of-sardanapalus--1827 iDBJK0y8vb0
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/constable---the-hay-wain---1821 FKIHHeBe674
-video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/gros--napoleon-bonaparte-visiting-the-pest-house-in-jaffa--1804 Rx1HtFtc1cM
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/caspar-david-friedrich--solitary-tree--or-lone-tree---1822 YlhDUSntCI4
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/goya--the-family-of-charles-iv--c--1800 TlvXGblFsv8
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/caspar-david-friedrich--monk-by-the-sea--1808-or-1810 XkcHktjqI1s
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/gros--napoleon-bonaparte-visiting-the-pest-house-in-jaffa--1804 Rx1HtFtc1cM
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/ingres--la-grande-odalisque--1814 lSV-J1JHDFY
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/g-ricault--raft-of-the-medusa--1818-19 XympPG5iD-Y
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/ingres--raphael-and-the-fornarina--1814 CXsstWSXh68
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/thomas-cole--expulsion-from-the-garden-of-eden--1828 dBrKCtx4TfA
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/thomas-cole--the-oxbow--1836 -mXnjglZL8s
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/goya--saturn-devouring-one-of-his-sons 3Lawz8TcPig
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/caspar-david-friedrich--woman-at-a-window--1822 eE7BR9HCffk
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/redgrave--the-sempstress--oil-on-canvas--1846 idcds5ftAd4
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/ingres--princess-de-broglie--1851-53 sQpAYcxSVEg
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/washington-allston--elijah-in-the-desert--1818 H95wT4wT95w
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/fitz-henry-lane--owl-s-head--penobscot-bay--maine--1862 ascpn9AjCIk
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/friedrich--a-walk-at-dusk--1830-35 xSnm3LNMXi0
 video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/erastus-salisbury-field--portrait-of-a-young-woman--c--1830 Km_VuxJuJng
+video /root/humanities/art-history/art-history-1800-1848-industrial-revolution-i/henry-fuseli--titania-and-bottom--c--1790 DMxaK0xjIdE
 topic /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/courbet--a-burial-at-ornans---1850 zRuLkyLx3No
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/courbet--the-viloncellist--1847 Ktjd5pMIAoQ
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/rosa-bonheur--plowing-in-the-nivernais--1849 kOnzZHJYzb4
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/william-holman-hunt--claudio-and-isabella--1850 4j13InegUPk
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet--olympia--1865 aaF8eILOyJE
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet---mile-zola--1868 znKX9WcowfY
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/seurat--bathers-at-asni-res--1884 9bs1iQ14LJY
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/bonheur--sheep-in-the-highlands--1857 76gw8PA12ag
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/william-holman-hunt--claudio-and-isabella--1850 4j13InegUPk
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet---mile-zola--1868 znKX9WcowfY
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/rosa-bonheur--plowing-in-the-nivernais--1849 kOnzZHJYzb4
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet--olympia--1865 aaF8eILOyJE
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/millet--l-ang-lus--ca--1857-1859 3KjZ3w5MtBo
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/arnold-b-cklin--self-portrait-with-death-playing-the-fiddle--1872 3oeLGKeNPj0
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/bonheur--sheep-in-the-highlands--1857 76gw8PA12ag
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet--the-balcony--1868-69 XS8OhYdc-20
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/c-zanne--still-life-with-plaster-cupid--c--1895 XBPgPEo0Xx4
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/van-gogh--portrait-of-joseph-roulin--1889 uIXS5-cFhYI
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-john-everett-millais--ophelia--1851-52 I2M7U8eCeHA
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/c-zanne--still-life-with-apples--1895-98--moma hH1a1v1JNAk
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/douard-manet--the-railway-1872-73 zO0YTkWY9N4
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/van-gogh--portrait-of-joseph-roulin--1889 uIXS5-cFhYI
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-lawrence-alma-tadema--a-reading-from-homer--1885 YDYxQMBm50k
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/courbet--the-artist-s-studio--1854-55 SvFtmPhbNRw
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/douard-manet--the-railway-1872-73 zO0YTkWY9N4
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/caillebotte--the-floor-scrapers--1875 eKj12_KS8m0
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/millais--the-vale-of-rest--where-the-weary-find-repose--1858 20n0i2KQRCs
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/gustave-caillebotte--paris-street--rainy-day--1877 U8d45ETt78o
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/pierre-auguste-renoir--la-loge--1874 _uUD1ZP79tE
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/degas--the-bellelli-family--1858-67 irLOxG7SpUk
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/degas--the-dance-class--1874 NigP3DjV3NY
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-gauguin--the-red-cow--1889 ofJS_K0Fj2Q
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet--le-d-jeuner-sur-l-herbe--luncheon-on-the-grass----1863 Nb_4nEFyeGk
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/khnopff---jeanne-k-fer--1885 cIpEZXOAn0I
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/degas--the-bellelli-family--1858-67 irLOxG7SpUk
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-c-zanne--the-red-rock--c--1895 2Vv9BhnE0SQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/degas--the-dance-class--1874 NigP3DjV3NY
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/cassatt--the-loge--1882 zOZiuAOuOkA
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/charles-garnier--the-paris-op-ra--1860-75 EtTGyLsR7lk
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/douard-manet--plum-brandy--c--1877 K3XTsNlcDS8
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/mary-cassatt--in-the-loge--1878 HVuyK_vIMfc
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-edward-coley-burne-jones--the-golden-stairs--1880 VQniy8iq9EQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/khnopff---jeanne-k-fer--1885 cIpEZXOAn0I
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/john-singer-sargent--carnation--lily--lily--rose--1885-86 -bnCHws9qmw
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/william-holman-hunt--our-english-coasts---strayed-sheep----1852 tIqO2GS8O64
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-gauguin--the-red-cow--1889 ofJS_K0Fj2Q
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/monet--the-argenteuil-bridge--1874 Iics7KH_rLE
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/douard-manet--plum-brandy--c--1877 K3XTsNlcDS8
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/charles-garnier--the-paris-op-ra--1860-75 EtTGyLsR7lk
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/claude-monet--gare-st--lazare--1877 sYQ5CSyACpc
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-gauguin--nevermore--1897 pQu1RMIkg3c
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/morisot--the-mother-and-sister-of-the-artist--c--1869-1870 BSQr7Ii_vbY
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/seurat--young-woman-powdering-herself--1890 kWPRKyqyJUo
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-gauguin--nevermore--1897 pQu1RMIkg3c
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/edouard-manet--in-the-conservatory--1878-1879 eNhrYgYV0MA
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/mary-cassatt--woman-with-a-pearl-necklace-in-a-loge--1879 guxLpVICBjg
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/jean-baptiste-carpeaux---dance--1865-69 3ZGmMTNyW0k
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/millet--gleaners--1857 Dk1nuM5JKqQ
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/renoir--moulin-de-la-galette--1876 x6rAFt5FW_Q
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/manet--corner-of-a-caf--concert--1878-80 BXzR-hdSFUY
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/vincent-van-gogh--self-portrait-dedicated-to-paul-gauguin--1888 gqSpWPONekE
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/caillebotte--man-at-his-bath--1884 cYUVtdpTlEo
-video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/monet--rouen-cathedral-series--1892-4 LnPKrSVMLnQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/william-holman-hunt--the-awakening-conscience--1853 9gnM72T4DTE
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/douard-manet--a-bar-at-the-folies-berg-re--1882 kMACjCg9r4E
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/monet--rouen-cathedral-series--1892-4 LnPKrSVMLnQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-edward-burne-jones--hope--1896 F00vnE37pIE
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-john-everett-millais--christ-in-the-house-of-his-parents--1849-50 nRPLiTZAry4
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/edgar-degas--at-the-races-in-the-countryside--1869 6HTBjvqn9uw
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-frederic-leighton--an-athlete-wrestling-with-a-python--1877 99hAYY4usME
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-c-zanne--bathers--les-grandes-baigneuses---c--1894-1905 iQY3SdZeZ6g
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/claude-monet--cliff-walk-at-pourville--1882 D8cHdto-G-I
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/georges-seurat--a-sunday-on-la-grande-jatte---1884--1884-86 wNB9Vm6MoDQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/pierre-auguste-renoir--the-grands-boulevards--1875 3SmyaLwpSaI
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/claude-monet--poplars--1891 JCKshDyxjuw
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/monet--les-nymph-as--the-water-lilies---1918-26 6fHorNn2zqQ
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/mary-cassatt--breakfast-in-bed--1897 gDbpcwwUgjI
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/dyce--pegwell-bay--kent--1858-60 GlkqvEOYicA
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/henri-de-toulouse-lautrec--at-the-moulin-rouge--1893-95 XLcbGHNFcpM
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/gaud---church-of-the-sagrada-fam-lia--1882---consecrated-2010--still-under-construction SMqERP-J2tQ
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/edgar-degas--visit-to-a-museum--c--1879--90 wvtPCKwGZCU
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/degas--woman-bathing-in-a-shallow-tub--1885 80Uk1EdXrKI
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/gustav-klimt--beethoven-frieze--vienna-secession--1902 983Tu9rlP54
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/john-roddam-spencer-stanhope--thoughts-of-the-past--exhibited-1859 zA2KSx5OYog
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/munch--the-storm--1893 653ZKHd_PYo
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/gustav-klimt--death-and-life--1910 P1Lw1NVcI8o
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/rodin--the-gates-of-hell---1880-1917 TgLTzYXg530
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/paul-c-zanne--the-large-bathers--1906 YFtf-xA7_oM
 video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/burne-jones--king-cophetua-and-the-beggar-maid--1884 iPb5zeXTsSE
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/vincent-van-gogh--the-bedroom--1889 E1tA9-ypx0g
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/sir-john-everett-millais--mariana-1851 DjNMJpdFPGA
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/pierre-auguste-renoir--the-large-bathers--1884-87 7qaxUhbiQUc
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/mary-cassatt--the-child-s-bath--1893 O4St29B7cmU
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/millais--the-vale-of-rest--where-the-weary-find-repose--1858 20n0i2KQRCs
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/henry-wallis--chatterton--1856 HNoyVb1hr7g
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/winslow-homer--the-life-line--1884 WV3MXLAfIi4
+video /root/humanities/art-history/art-history-1848-1907-industrial-revolution-ii/winslow-homer--the-fog-warning--halibut-fishing---1885 z9s_uJlG3b8
 topic /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/marcel-duchamp--boite-en-valise--the-red-box---series-f--1960 yOAlbFVKGfk
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/matisse--luxe--calme-et-volupt---1904 7d6S8y2kYSg
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/ernst-ludwig-kirchner--street--dresden--1908 zfZu--psur8
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/bellows--pennsylvania-station--c--1907-8 CIH3VBBL69k
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/umbo--otto-umbehr---the-roving-reporter--1926 ukjw0Doy65Q
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/matisse--luxe--calme-et-volupt---1904 7d6S8y2kYSg
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/giacometti--palace-at-4am--1932 3zU90x0OZ0Y
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--still-life-with-chair-caning--1912 286FiUvOeFs
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/wassily-kandinsky--composition-vii--1913 i16sGRY7SZ4
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/umbo--otto-umbehr---the-roving-reporter--1926 ukjw0Doy65Q
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/bellows--pennsylvania-station--c--1907-8 CIH3VBBL69k
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/henri-matisse--the-red-studio--1911 W-huWpNU-9w
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/barnett-newman--onement-i--1948 4qgOSBHptLM
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--les-demoiselles-d-avignon--1907 fy2TlYnYIzA
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/wassily-kandinsky--composition-vii--1913 i16sGRY7SZ4
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--still-life-with-chair-caning--1912 286FiUvOeFs
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/jean--hans--arp--untitled--collage-with-squares-arranged-according-to-the-laws-of-chance---1916-17 3wm0589mLbM
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/giacometti--city-square--1948 6pSOOgJz44o
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/mark-rothko--no--3-no--13--1949 FnkATpF4O2Q
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/henri-matisse--the-piano-lesson--1916 9vI1kP-9zpw
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/willem-de-kooning--woman-i--1950-52 WEYKoJTIHcE
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/tienne-jules-marey---l--homme-machine kMh7GI9pEIY
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--les-demoiselles-d-avignon--1907 fy2TlYnYIzA
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/henri-matisse--the-piano-lesson--1916 9vI1kP-9zpw
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/barnett-newman--onement-i--1948 4qgOSBHptLM
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/duchamp-readymade zvrD8ConF1E
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/gordon-bunshaft-for-skidmore-owings-and-merrill--lever-house--1951-52 g3LBmyq-J9s
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/tienne-jules-marey---l--homme-machine kMh7GI9pEIY
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/kurt-schwitters--merzbild-32a--the-cherry-picture--1921 1d8gAw4hp4E
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/magritte--the-treachery-of-images--ceci-n-est-pas-une-pipe---1929 w702yvnip_w
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/barnett-newman--vir-heroicus-sublimis--1950-51 2Qn-rXJghoU
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/futurism JHul281Kmtk
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/alexej-von-jawlensky--young-girl-in-a-flowered-hat--1910 vUxYPrznFLw
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/gordon-bunshaft-for-skidmore-owings-and-merrill--lever-house--1951-52 g3LBmyq-J9s
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/hannah-h-ch--cut-with-the-kitchen-knife--1919-20 9E1cA3j_xY8
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/barnett-newman--vir-heroicus-sublimis--1950-51 2Qn-rXJghoU
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/august-sander--portraits qZ1ofSJBxBU
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/egon-schiele--seated-male-nude--self-portrait---1910 croM4PvOdbM
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/braque--le-viaduc---l-estaque---the-viaduct-at-l-estaque---1908 j2-95i4pq9g
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--the-reservoir--horta-de-ebro--1909 IXtreNuEC-Q
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/feininger--cathedral-for-program-of-the-state-bauhaus-in-weimar--woodcut--1919 hip59oIFSMQ
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/dal---metamorphosis-of-narcissus--1937 HUZDPWLTZ0g
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/mondrian--composition-no--ii--with-red-and-blue--1929 NpWxl4C0OWU
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/christian-schad--self-portrait--1927 jEVfDSfO9Gw
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/cartier-bresson--behind-the-gare-saint-lazare--paris--1932 YxMBp4Ef3ek
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/mondrian--composition-no--ii--with-red-and-blue--1929 NpWxl4C0OWU
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/paul-klee--twittering-machine--1922 M7yd8F3eay4
-video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--guernica--1937 K1_qjc4SQlk
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/dal---metamorphosis-of-narcissus--1937 HUZDPWLTZ0g
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/frank-lloyd-wright--solomon-r--guggenheim-museum--new-york-city--1942-1959 JVm-ePTIKR4
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/picasso--guernica--1937 K1_qjc4SQlk
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/amedeo-modigliani--young-woman-in-a-shirt--1918 3sCB3udmu1Y
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/dix--portrait-of-sylvia-von-harden--1926 sHkZWu9tgpw
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/egon-schiele--hermits--1912 PqRx4OV5jhM
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/moholy-nagy--composition-a-xx--1924 YeBe-yDGVnU
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/raymond-duchamp-villon--horse--1914 JAe14gwSvIU
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/grant-wood--american-gothic--1930 vk2GvyNmYD0
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/georgia-o-keeffe--the-lawrence-tree--1929 wQq2xOs2BYU
+video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/edward-hopper--nighthawks--1942 j24uh8cZ3wA
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/frida-kahlo--frieda-and-diego-rivera---1931 n2HWkDrorRg
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/jackson-pollock--one--number-31--1950 b696yKKifJs
 video /root/humanities/art-history/art-history-1907-1960-age-of-global-conflict/jasper-johns--flag--1954-55 b3GToHvtFG8
@@ -3394,6 +3625,7 @@ video /root/humanities/art-history/art-history-1960---age-of-post-colonialism/ja
 video /root/humanities/art-history/art-history-1960---age-of-post-colonialism/lynda-benglis--omega--1973 _dLpDljQWis
 video /root/humanities/art-history/art-history-1960---age-of-post-colonialism/robert-storr--gerhard-richter---september qevWv4QMXh4
 video /root/humanities/art-history/art-history-1960---age-of-post-colonialism/colescott--beauty-is-in-the-eye-of-the-beholder--1979 FAwTjShZZpI
+video /root/humanities/art-history/art-history-1960---age-of-post-colonialism/ai-weiwei-detained--here-is-his-ted-film MVnH8ou3Kd4
 topic /root/test-prep
 topic /root/test-prep/sat-math
 video /root/test-prep/sat-math/sat-prep--test-1-section3-part-1 tP9bocr_C2I
@@ -3839,3 +4071,13 @@ video /root/talks-and-interviews/khan-academy-s--world-changing--plan-for-school
 video /root/talks-and-interviews/khan-academy--school-of-the-future VynMS1jxBn4
 video /root/talks-and-interviews/khan-academy-in-the-classroom bdmOvVW9el4
 video /root/talks-and-interviews/google-s-eric-schmidt-on-khan-academy _JBhxkPbijM
+video /root/talks-and-interviews/ed-session-iii-with-sal-khan---reactions-in-idaho OX76RXuFWmk
+video /root/talks-and-interviews/videocast-with-sal-khan--effectively-using-khan-academy EUQCACf2EzA
+video /root/talks-and-interviews/salman-khan-at-rice-university-s-2012-commencement oipQBY7F4YY
+video /root/talks-and-interviews/microsoft-ceo-summit--innovation-in-education QRrTMZkqn2w
+video /root/talks-and-interviews/oakland-unity 2tYdClfLSCE
+video /root/talks-and-interviews/marlborough 7D6urvlVjJ4
+video /root/talks-and-interviews/summit TZ1CRFgBK4o
+video /root/talks-and-interviews/kipp 9NVQsQLPOqc
+video /root/talks-and-interviews/mit-2012-commencement-address Pn24jP0YbTI
+video /root/talks-and-interviews/minli-virdone 2onEj_Y9JHc
