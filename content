@@ -1,23 +1,12 @@
 topic /root
 topic /root/new-and-noteworthy
-video /root/new-and-noteworthy/heart-disease-and-heart-attacks vYnreB1duro
 video /root/new-and-noteworthy/salman-khan-talk-at-ted-2011--from-ted-com gM95HHI4gLk
 video /root/new-and-noteworthy/primaries-and-caucuses z_QeYCg4yJ8
 video /root/new-and-noteworthy/electoral-college oTbvYGH_Hiw
 video /root/new-and-noteworthy/the-gates-notes--teachers-in-los-altos RoGgxrCsCEQ
 video /root/new-and-noteworthy/tau-versus-pi 1jDDfkKKgmc
-video /root/new-and-noteworthy/the-beauty-of-algebra kpCJyQ2usJ4
-video /root/new-and-noteworthy/duccio--the-rucellai-madonna--1285-86 1JL5ZR-ocOs
-video /root/new-and-noteworthy/newton-leibniz-and-usain-bolt EKvHQc3QEow
-video /root/new-and-noteworthy/euclid-as-the-father-of-geometry WqzK3UAXaHs
-video /root/new-and-noteworthy/futures-introduction 3g6P0lRXotI
-video /root/new-and-noteworthy/breakdown-of-gas-prices 1YYy0DEOpoU
-video /root/new-and-noteworthy/short-run-oil-prices ZxtlcZ-d90o
-video /root/new-and-noteworthy/money-supply--m0-m1-and-m2 _LPh72gx6GE
 video /root/new-and-noteworthy/lebron-asks-about-the-chances-of-making-10-free-throws iMqCSgqzmiQ
 video /root/new-and-noteworthy/why-europe-is-worried-about-greece xc-TSAQkqJ0
-video /root/new-and-noteworthy/balance-of-payments--current-account dirBYVjDk7A
-video /root/new-and-noteworthy/balance-of-payments--capital-account AimYG1jYD0A
 video /root/new-and-noteworthy/why-current-and-capital-accounts-net-out tYmMEqro8D4
 video /root/new-and-noteworthy/accumulating-foreign-currency-reserves HiphWQfB6J0
 video /root/new-and-noteworthy/using-reserves-to-stablize-currency TZ7d5kjAlQw
@@ -33,6 +22,9 @@ video /root/new-and-noteworthy/mit-2012-commencement-address Pn24jP0YbTI
 video /root/new-and-noteworthy/monty-hall-problem Xp6V_lO1ZKA
 video /root/new-and-noteworthy/why-dividing-by-zero-is-undefined SQzjzStU1RQ
 video /root/new-and-noteworthy/undefined-and-indeterminate lHdlHTsXbZg
+video /root/new-and-noteworthy/the-why-of-the-3-divisibility-rule NehkLV77ITk
+video /root/new-and-noteworthy/divisibility-intuition AHRh3EpJQH0
+video /root/new-and-noteworthy/the-fundamental-theorem-of-arithmetic uzvopM4PZLw
 topic /root/math
 topic /root/math/arithmetic
 topic /root/math/arithmetic/telling-time
@@ -186,6 +178,7 @@ exercise /root/math/arithmetic/factors-multiples/composite_numbers
 exercise /root/math/arithmetic/factors-multiples/the_fundamental_theorem_of_arithmetic
 exercise /root/math/arithmetic/factors-multiples/divisibility_intuition
 exercise /root/math/arithmetic/factors-multiples/divisibility_tests
+video /root/math/arithmetic/factors-multiples/the-why-of-the-3-divisibility-rule NehkLV77ITk
 topic /root/math/arithmetic/fractions
 exercise /root/math/arithmetic/fractions/converting_decimals_to_fractions_2
 exercise /root/math/arithmetic/fractions/multiplying_fractions_0.5
@@ -242,6 +235,7 @@ video /root/math/arithmetic/fractions/adding-fractions-with-unlike-denominators 
 video /root/math/arithmetic/fractions/adding-and-subtracting-fractions 52ZlXsFJULI
 video /root/math/arithmetic/fractions/adding-mixed-numbers 4TBVB4hLQhY
 video /root/math/arithmetic/fractions/adding-mixed-numbers-with-unlike-denominators CfBYGFm5gPA
+video /root/math/arithmetic/fractions/adding-fractions--ex-1 TuId1spuyoc
 video /root/math/arithmetic/fractions/subtracting-mixed-numbers WF7L2waDwLw
 video /root/math/arithmetic/fractions/subtracting-mixed-numbers-2 4LYtLMmDuzw
 video /root/math/arithmetic/fractions/adding-mixed-numbers-word-problem o0arqcKC7QE
@@ -3365,6 +3359,7 @@ video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/michelangelo--david--marble--1501-04--galleria-dell-accademia--florence -oXAekrYytA
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--the-virgin-of-the-rocks--c--1491-1508 94xKRkCHlv0
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/leonardo-da-vinci--renaissance-artist PBXb6AEZrWw
+video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/bosch--last-judgment-triptych--1504-08 Ea6qS3nuvng
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/printmaking--woodcuts-and-engravings k4edY2aXgbY
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/parmigianino--self-portrait-in-a-convex-mirror--1524 3sU7V6xx268
 video /root/humanities/art-history/art-history-1500-1600-end-of-the-renaissance-and-the-reformation/raphael--alba-madonna--c--1510 ln9VIRiocps
