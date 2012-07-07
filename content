@@ -79,6 +79,7 @@ video /root/math/arithmetic/addition-subtraction/adding-whole-numbers-and-applic
 video /root/math/arithmetic/addition-subtraction/u09-l1-t2-we4-adding-real-numbers-application fFdOr8U4mnI
 exercise /root/math/arithmetic/addition-subtraction/representing_numbers
 topic /root/math/arithmetic/multiplication-division
+exercise /root/math/arithmetic/multiplication-division/arithmetic_word_problems
 exercise /root/math/arithmetic/multiplication-division/division_4
 exercise /root/math/arithmetic/multiplication-division/division_3
 exercise /root/math/arithmetic/multiplication-division/division_1.5
@@ -370,23 +371,21 @@ exercise /root/math/algebra/pythagorean-theorem/pythagorean_theorem_1
 exercise /root/math/algebra/pythagorean-theorem/midpoint_formula
 exercise /root/math/algebra/pythagorean-theorem/distance_formula
 topic /root/math/algebra/solving-linear-equations-and-inequalities
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/inequalities_on_a_number_line
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_4
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_2
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations_0.5
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_expressions_1
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_expressions_2
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations_0.5
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_equations
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_1
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_2
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_3
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_4
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/inequalities_on_a_number_line
+exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_inequalities
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_inequalities
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/compound_inequalities
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/one_step_inequalities
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/absolute_value_equations
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/age_word_problems
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/distributive_property_with_variables
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/solving_for_a_variable
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_3
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/linear_equations_1
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/arithmetic_word_problems
-exercise /root/math/algebra/solving-linear-equations-and-inequalities/writing_expressions_2
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_2
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/evaluating_expressions_1
 exercise /root/math/algebra/solving-linear-equations-and-inequalities/combining_like_terms_1
@@ -592,6 +591,7 @@ exercise /root/math/algebra/systems-of-eq-and-ineq/graphing_systems_of_inequalit
 exercise /root/math/algebra/systems-of-eq-and-ineq/graphing_systems_of_equations
 exercise /root/math/algebra/systems-of-eq-and-ineq/systems_of_equations_with_elimination_0.5
 exercise /root/math/algebra/systems-of-eq-and-ineq/solutions_to_systems_of_equations
+exercise /root/math/algebra/systems-of-eq-and-ineq/age_word_problems
 video /root/math/algebra/systems-of-eq-and-ineq/systems-of-equations nok99JOhcjo
 video /root/math/algebra/systems-of-eq-and-ineq/officer-on-horseback IPJAi5zWu9U
 video /root/math/algebra/systems-of-eq-and-ineq/patterns-and-equations rUT0pa87m7E
