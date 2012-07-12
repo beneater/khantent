@@ -719,6 +719,7 @@ exercise /root/math/algebra/exponents-radicals/scientific_notation_intuition
 exercise /root/math/algebra/exponents-radicals/exponents_3
 exercise /root/math/algebra/exponents-radicals/exponents_2
 exercise /root/math/algebra/exponents-radicals/square_roots
+exercise /root/math/algebra/exponents-radicals/square_roots_2
 exercise /root/math/algebra/exponents-radicals/cube_roots
 video /root/math/algebra/exponents-radicals/understanding-exponents mJ1P4A-KA8k
 video /root/math/algebra/exponents-radicals/understanding-exponents-2 5qfOViJda_g
@@ -1238,6 +1239,7 @@ exercise /root/math/geometry/basic-geometry/area_of_parallelograms
 exercise /root/math/geometry/basic-geometry/areas_of_trapezoids_rhombi_and_kites
 exercise /root/math/geometry/basic-geometry/circles_and_arcs
 exercise /root/math/geometry/basic-geometry/shaded_areas
+exercise /root/math/geometry/basic-geometry/areas_of_circles_and_sectors
 topic /root/math/geometry/intro-to-euclidean-geo
 video /root/math/geometry/intro-to-euclidean-geo/euclid-as-the-father-of-geometry WqzK3UAXaHs
 video /root/math/geometry/intro-to-euclidean-geo/language-and-notation-of-basic-geometry il0EJrY64qE
@@ -1386,6 +1388,8 @@ video /root/math/geometry/triangles/euler-line tUqyJgmGY7k
 video /root/math/geometry/triangles/euler-s-line-proof t_EgAi574sM
 video /root/math/geometry/triangles/common-orthocenter-and-centroid pDZIvyeqX1o
 exercise /root/math/geometry/triangles/solving_similar_triangles_2
+exercise /root/math/geometry/triangles/geometry_proofs_2
+exercise /root/math/geometry/triangles/geometry_proofs_1
 topic /root/math/geometry/polygons-quads-parallelograms
 video /root/math/geometry/polygons-quads-parallelograms/quadrilateral-overview Ka82QC4QvGA
 video /root/math/geometry/polygons-quads-parallelograms/quadrilateral-properties 5CeBlu260Rw
